@@ -1,13 +1,13 @@
-
+<!-- Headline -->
 - 👋 Hello, I’m Ali Asgar
-- 👀 I’m interested in Software Development, Cyber Security, AI, ML, Deep learning and Neural Network's
-- 🌱 I’m currently learning VAPT, AI, ML, Deep learning and Neural Network's
-- 💞️ I’m looking to collaborate and work on Software Development, SaaS, CTF, Security Research, Cyber security, Security-related Content Writing, AI, ML, Deep learning and   
-Neural Network's projects 
+- 👀 I’m interested in Software Development, Cyber Security, Digital Forensics, AI, ML, Deep learning and Neural Network's
+- 🌱 I’m currently learning Vulnerability Assessment and Penetration Testing (VAPT) <!-- , AI, ML, Deep learning and Neural Network's -->
+- 💞️ I’m looking to collaborate and work on Software Development, SaaS, CTF, Security Research, Digital Forensics, Vulnerability Assessment and Penetration Testing (VAPT), Security-related Content Writing <!-- , AI, ML, Deep learning and Neural Network's --> 
 - 📫 reach me at alisabun007@gmail.com
 
 
-# Summary
+<!-- Summary -->
+# Briefly,
 I'm 
 - A Software Developer, 
 - Competitive Programmer, 
