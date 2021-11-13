@@ -3,7 +3,13 @@
 - 👀 I’m interested in Software Development, Cyber Security, Digital Forensics, AI, ML, Deep learning and Neural Network's
 - 🌱 I’m currently learning Vulnerability Assessment and Penetration Testing (VAPT) <!-- , AI, ML, Deep learning and Neural Network's -->
 - 💞️ I’m looking to collaborate and work on Software Development, SaaS, CTF, Security Research, Digital Forensics, Vulnerability Assessment and Penetration Testing (VAPT), Security-related Content Writing <!-- , AI, ML, Deep learning and Neural Network's --> 
-- 📫 reach me at alisabun007@gmail.com
+- Reach Me: 
+     1. I'm at [Linkedin](https://linkedin.com/in/AliasgarSabunwala)
+     3. I write Security-related Content at [Medium](https://aliasgarsabunwala.medium.com/)
+     4. I'm at [Twitter](https://twitter.com/AliasgarSabun)
+     5. I'm at [Instagram](https://instagram.com/aliasgarsabunwala)
+     6. Mail Me [Here](alisabun007@gmail.com).
+     
 
 <br/><br/>
 <!-- Summary -->
