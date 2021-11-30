@@ -1,5 +1,5 @@
 <!-- Headline -->
-- 👋 Hello, I’m Ali Asgar
+- 👋 Hello, 
 - 👀 I’m interested in Software Development, Cyber Security, Digital Forensics, AI, ML, Deep learning and Neural Network's
 - 🌱 I’m currently learning Vulnerability Assessment and Penetration Testing (VAPT) <!-- , AI, ML, Deep learning and Neural Network's -->
 - 💞️ I’m looking to collaborate and work on Software Development, SaaS, CTF, Security Research, Digital Forensics, Vulnerability Assessment and Penetration Testing (VAPT), Security-related Content Writing <!-- , AI, ML, Deep learning and Neural Network's --> 
