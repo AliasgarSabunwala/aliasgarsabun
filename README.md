@@ -8,7 +8,7 @@
      3. I write Security-related Content at [Medium](https://aliasgarsabunwala.medium.com/)
      4. I'm at [Twitter](https://twitter.com/AliasgarSabun)
      5. I'm at [Instagram](https://instagram.com/aliasgarsabunwala)
-     6. Mail Me [Here](alisabun007@gmail.com).
+     6. Mail Me [Here](aliasgarabidsabunwala@gmail.com).
      
 
 <br/><br/>
