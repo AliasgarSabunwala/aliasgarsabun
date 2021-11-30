@@ -10,10 +10,7 @@
      5. I'm at [Instagram](https://instagram.com/aliasgarsabunwala)
      6. Mail Me [Here](aliasgarabidsabunwala@gmail.com).
      
-
-<br/><br/>
 <!-- Summary -->
-# Briefly,
 I'm 
 - A Software Developer, 
 - Competitive Programmer, 
@@ -26,7 +23,6 @@ I'm
 - have great leadership qualities and 
 - believes in working together by taking everyone together as a team and always there to show up as and when required.
 
-<br/><br/>
 # On Software Development front
 ## General-purpose languages
 - I have coding proficiency in General-purpose languages like C, C++, and Java on which I had developed 
@@ -55,7 +51,6 @@ and
 - PWAs and 
 - Flutter (which I'm learning right now). 
 
-<br/><br/>
 # On Cloud front 
 I have knowledge on 
 - AWS, 
@@ -73,34 +68,26 @@ I had certain certification on Azure like
 - DA-100 (Azure Data Analyst) and 
 - AI-900 (Azure AI Fundamentals).
 
-<br/><br/>
 # On Collaboration tools 
 I have expertise in 
 - GitHub, 
 - GitLab and 
 - Open Project and 
-- on latex. 
+- on latex (openleaf). 
+- VS Code.
 
-- Along with on VS Code.
-
-<br/><br/>
 # On Web Development front
 I have good command on 
 - HTML, 
 - CSS, and 
 - JS, 
-
 - PHP, 
-
 - jQuery and 
 - Node.js, 
 - React JS (which I'm learning right now) 
-
 and
-
 - good enough on Web Designing too.
 
-<br/><br/>
 # On Databases front 
 ### I have hands-on experience with SQL like
 - MYSQL, 
@@ -112,9 +99,9 @@ and
 
 ### currently learning NoSQL like 
 - PostgreSQL and 
-- MongoDB to name a few. 
+- MongoDB, to name a few. 
 
-<br/><br/>
+
 # On Cyber Security front
 ### I have hands-on experience in 
 - Metasploit framework, 
@@ -149,11 +136,9 @@ and
 
 And
 
-<br/><br/>
 # I Write articles 
 - on Cyber Security and Security Security-related Content at Medium on aliasgarsabunwala@medium.com
 
-<br/><br/>
 # On the OS front
 I have System administrator expertise in 
 - Linux/ UNIX and 
@@ -162,7 +147,6 @@ I have System administrator expertise in
 ## Linux Certifications
 - Projects in Linux by Eduonix
 
-<br/><br/>
 # On the Virtualization front 
 I have Knowledge of  Virtualization software's like 
 - VMWare, 
