@@ -1,13 +1,13 @@
 👋 Hi there, 
 - I'm 
-     - A Software Developer, 
+     - App Developer, 
      - Competitive Programmer, 
      - CTF Payer, 
-     - Security Researcher, 
-     - Security-related Content Writer, and 
-     - have good knowledge of Web technologies in Front-end and
-     - good enough at Web designing also. 
-     - Along with that I'm a team player and 
+     - Cyber Security Researcher, 
+     - Cyber Security Content Writer 
+      
+     Along with that, 
+     - I'm a team player and 
      - have great leadership qualities and 
      - believes in working together by taking everyone together as a team and always there to show up as and when required.
 
