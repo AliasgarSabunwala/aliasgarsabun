@@ -1,5 +1,4 @@
-<!-- Headline -->
-- 👋 Hi there, 
+👋 Hi there, 
 - I'm 
      - A Software Developer, 
      - Competitive Programmer, 
