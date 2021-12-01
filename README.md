@@ -124,7 +124,7 @@ and
 ## Computer Network Certifications
 - I have The Bytes and Bytes of Computer Networking certification by Google. 
 
-# On the OS front
+# OS
 I have System administrator expertise in 
 - Linux/ UNIX and 
 - Windows.
@@ -132,7 +132,7 @@ I have System administrator expertise in
 ## Linux Certifications
 - Projects in Linux by Eduonix
 
-# On the Virtualization front 
+# Virtualization
 I have Knowledge of  Virtualization software's like 
 - VMWare, 
 - Virtual Box.
