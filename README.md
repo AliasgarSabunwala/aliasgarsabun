@@ -1,11 +1,11 @@
 <!-- Headline -->
-- 👋 Hello, 
+- 👋 Hi there, 
 - 👀 I’m interested in Software Development, Cyber Security, Digital Forensics, AI, ML, Deep learning and Neural Network's
 - 🌱 I’m currently learning Vulnerability Assessment and Penetration Testing (VAPT) <!-- , AI, ML, Deep learning and Neural Network's -->
 - 💞️ I’m looking to collaborate and work on Software Development, SaaS, CTF, Security Research, Digital Forensics, Vulnerability Assessment and Penetration Testing (VAPT), Security-related Content Writing <!-- , AI, ML, Deep learning and Neural Network's --> 
 - Reach Me: 
      1. I'm at [Linkedin](https://linkedin.com/in/AliasgarSabunwala)
-     3. I write Security-related Content at [Medium](https://aliasgarsabunwala.medium.com/)
+     3. I write Cyber Security related Content at [Medium](https://aliasgarsabunwala.medium.com/)
      4. I'm at [Twitter](https://twitter.com/AliasgarSabun)
      5. I'm at [Instagram](https://instagram.com/aliasgarsabunwala)
      6. Mail Me [Here](aliasgarabidsabunwala@gmail.com).
@@ -23,35 +23,35 @@ I'm
 - have great leadership qualities and 
 - believes in working together by taking everyone together as a team and always there to show up as and when required.
 
-# On Software Development front
+# Software Development
 ## General-purpose languages
-- I have coding proficiency in General-purpose languages like C, C++, and Java on which I had developed 
+- I have coding proficiency in General-purpose languages like C, C++, and Java 
 
 ### General-purpose languages Projects 
-- ARLibrary (experiencing library in AR coded in C/C++ and AR), 
+- [ARLibrary](https://github.com/AliasgarSabunwala/ARLibrary) (experience library in metaverse uisng AR coded in C/C++ and AR), 
 
 and 
 
-## On Interpreted languages 
-- like Python on which I had made 
+## Interpreted languages 
+- Python 3
 
 ### Interpreted languages Projects
-- TraceRoute (tracing Any website or IP using OS native commands written in Python 3) project 
+- [Trace](https://github.com/AliasgarSabunwala/Trace) (tracing Any website or IP using OS native commands written in Python 3) project 
 
 and 
 
-## On Special-purpose languages 
-- like Ruby, Golang (Go) on which. 
+## Special-purpose languages 
+- Ruby, Golang (Go)
 
 ## Special-purpose languages Projects
-- I had created a GoAPI (social media API backend in Go)
+- I had created a [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) (social media API backend in Go)
 
 ## Also, I'm interested in 
 - Android Software Development, 
 - PWAs and 
 - Flutter (which I'm learning right now). 
 
-# On Cloud front 
+# Cloud Technologies 
 I have knowledge on 
 - AWS, 
 - GCP, 
@@ -76,7 +76,7 @@ I have expertise in
 - on latex (openleaf). 
 - VS Code.
 
-# On Web Development front
+# On Web Development
 I have good command on 
 - HTML, 
 - CSS, and 
@@ -88,7 +88,7 @@ I have good command on
 and
 - good enough on Web Designing too.
 
-# On Databases front 
+# On Databases 
 ### I have hands-on experience with SQL like
 - MYSQL, 
 - MYSQL server, 
@@ -101,8 +101,7 @@ and
 - PostgreSQL and 
 - MongoDB, to name a few. 
 
-
-# On Cyber Security front
+# Cyber Security
 ### I have hands-on experience in 
 - Metasploit framework, 
 - Nmap, 
@@ -133,11 +132,6 @@ and
 
 ## Computer Network Certifications
 - I have The Bytes and Bytes of Computer Networking certification by Google. 
-
-And
-
-# I Write articles 
-- on Cyber Security and Security Security-related Content at Medium on aliasgarsabunwala@medium.com
 
 # On the OS front
 I have System administrator expertise in 
