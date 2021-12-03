@@ -1,8 +1,8 @@
 👋 Hi there, 
 - I'm 
      - App Developer, 
-     - Competitive Programmer, 
-     - CTF Payer, 
+     - Competitive Programmer (CP) coding in C/ C++, Java,
+     - Catch The Flag (CTF) Payer, 
      - Cyber Security Researcher, 
      - Cyber Security Content Writer 
       
@@ -22,23 +22,27 @@
      6. Mail Me [Here](aliasgarabidsabunwala@gmail.com).
 
 # Software Development
-## General-purpose languages
-- I have coding proficiency in General-purpose languages like C, C++, and Java 
+## General-purpose Languages
+- Coding proficiency in:
+   1. C, 
+   2. C++, 
+   3. and Java 
 
-### General-purpose languages Projects 
-- [ARLibrary](https://github.com/AliasgarSabunwala/ARLibrary) (experience library in metaverse uisng AR coded in C/C++ and AR), 
+### Project
+- [ARLibrary](https://github.com/AliasgarSabunwala/ARLibrary) - experience library in metaverse uisng AR coded in C/C++ and AR.
 
-## Interpreted languages 
+## Interpreted Languages 
 - Python 3
 
-### Interpreted languages Projects
-- [Trace](https://github.com/AliasgarSabunwala/Trace) (tracing Any website or IP using OS native commands written in Python 3) project 
+### Project
+- [TraceRoute](https://github.com/AliasgarSabunwala/TraceRoute) - tracing Any website or IP using OS native commands written in Python 3.
 
-## Special-purpose languages 
-- Ruby, Golang (Go)
+## Special-purpose Languages 
+1. Ruby, 
+2. Golang (Go)
 
-## Special-purpose languages Projects
-- I had created a [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) (social media API backend in Go)
+### Project
+- [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) - social media API backend in Go using standard Library.
 
 # Cloud Technologies 
 I have knowledge on 
@@ -47,8 +51,8 @@ I have knowledge on
 - Azure and 
 - Heroku. 
 
-## Cloud Certifications
-I had certain certification on Azure like 
+### Cloud Certification's
+I had certain certification on Azure such as 
 - AZ-500, 
 - AZ-104, 
 - AZ-204, 
@@ -57,27 +61,27 @@ I had certain certification on Azure like
 - DA-100 (Azure Data Analyst) and 
 - AI-900 (Azure AI Fundamentals).
 
-# On Collaboration tools 
+# Collaboration Tools 
 I have expertise in 
 - GitHub, 
-- GitLab and 
-- Open Project and 
-- on latex (openleaf). 
+- GitLab,
+- Open Project,
+- latex (openleaf), 
 - VS Code.
 
-# On Web Development
+# Web Development
 I have good command on 
 - HTML, 
-- CSS, and 
+- CSS,
 - JS, 
 - PHP, 
-- jQuery and 
+- jQuery
 - Node.js, 
 - React JS (which I'm learning right now) 
 and
 - good enough on Web Designing too.
 
-# On Databases 
+# Databases 
 ### I have hands-on experience with 
 #### SQL
 - MYSQL, 
@@ -90,7 +94,7 @@ and
 - MongoDB, to name a few. 
 
 # Cyber Security
-### I have hands-on experience in 
+### I have hands-on experience with 
 - Metasploit framework, 
 - Nmap, 
 - Wireshark, 
@@ -99,17 +103,17 @@ and
 
 ### Reverse Engineering tools like 
 - OllyDBG, 
-- IDA PRO etc and 
-
+- IDA PRO, etc.
+and
 </br>
 
 - vulnerability scanners, 
-- IDS 
-- Open Source Security tools
+- IDS,
+- Open Source Security tools,
 - and Open Source Intelligence Tools (OSINT). 
 
-- Along with some Experience in developing security related tools/programs. and 
-- In-depth knowledge of TCP/ IP, HTTP, FTP, SSH, SSL and SMTP protocols and 
+- Along with some Experience in developing security related tools/programs like [TraceRoute](https://github.com/AliasgarSabunwala/TraceRoute)
+- In-depth knowledge of TCP/ IP, HTTP, FTP, SSH, SSL and SMTP protocols.
 - Experience with network analysis tools, analysis of packet captures.
 
 ### Strong understanding of 
