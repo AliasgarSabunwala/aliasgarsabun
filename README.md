@@ -1,17 +1,19 @@
 👋 Hi there, 
 - I'm 
+
+     By Passion,
      - App Developer, 
-     - Competitive Programmer (CP) coding in C/ C++, Java,
-     - Catch The Flag (CTF) Payer, 
+     - Competitive Programmer (CP) coding in C/ C++ and Java in Codechef and CodeForces
+     - Catch The Flag (CTF) Player, 
      - Cyber Security Researcher, 
      - Cyber Security Content Writer 
       
-     Along with that, 
+     And By Nature, 
      - I'm a team player and 
      - have great leadership qualities and 
      - believes in working together by taking everyone together as a team and always there to show up as and when required.
 
-- 👀 I’m interested in App Development, Android App Development, PWAs, Flutter,  Cyber Security, Digital Forensics, AI, ML, Deep learning and Neural Network's
+- 👀 I’m interested in Secure Software Development, Secure Android App Development, PWAs, Flutter,  Cyber Security, Digital Forensics, AI, ML, Deep learning and Neural Network's
 <!-- -🌱 I’m currently learning Vulnerability Assessment and Penetration Testing (VAPT) <!-- , AI, ML, Deep learning and Neural Network's -->
 - 💞️ I’m looking to collaborate and work on Software Development, SaaS, CTF, Security Research, Digital Forensics, Vulnerability Assessment and Penetration Testing (VAPT), Security-related Content Writing <!-- , AI, ML, Deep learning and Neural Network's --> 
 - Reach Me At: 
