@@ -1,5 +1,4 @@
-👋 Hi there, 
-- I'm 
+👋 Hello I'm 
 
      By Passion,
      - App Developer, 
