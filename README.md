@@ -24,13 +24,10 @@
 
 # Software Development
 ## General-purpose Languages
-- Coding proficiency in:
-   1. C, 
-   2. C++, 
-   3. and Java 
+- Coding proficiency in C++ 
 
 ### Project
-- [ARLibrary](https://github.com/AliasgarSabunwala/ARLibrary) - experience library in metaverse uisng AR coded in C/C++ and AR.
+- [ARLibrary](https://github.com/AliasgarSabunwala/ARLibrary) - experience library in metaverse.
 
 ## Interpreted Languages 
 - Python 3
@@ -64,10 +61,7 @@ I had certain certification on Azure such as
 
 # Collaboration Tools 
 I have expertise in 
-- GitHub, 
-- GitLab,
-- Open Project,
-- latex (openleaf), 
+- GitHub
 - VS Code.
 
 # Web Development
@@ -123,8 +117,7 @@ and
 - Intrusion detection system (IDS) and IPS. 
 
 ## Cyber Security Certifications
-- I have TCM Practical Ethical Hacker certifications and 
-- C | EH practical scholarship. 
+- I have TCM "Practical Ethical Hacker" certification
 
 ## Computer Network Certifications
 - I have The Bytes and Bytes of Computer Networking certification by Google. 
