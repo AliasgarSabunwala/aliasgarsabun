@@ -13,8 +13,8 @@
      - believes in working together by taking everyone together as a team and always there to show up as and when required.
 
 - 👀 I’m interested in Secure Software Development, Secure Android App Development, PWAs, Flutter, Cyber Security, RNN
-<!-- -🌱 I’m currently learning Vulnerability Assessment and Penetration Testing (VAPT) <!-- , AI, ML, Deep learning and Neural Network's -->
-- 💞️ I’m looking to collaborate and work on Software Development, SaaS, CTF's, Security Research, Vulnerability Assessment and Penetration Testing (VAPT), Security-related Content Writing <!-- , AI, ML, Deep learning and Neural Network's --> 
+<!-- -🌱 I’m currently learning Vulnerability Assessment and Penetration Testing (VAPT), RNN -->
+- 💞️ I’m looking to collaborate and work on Software Development, SaaS, CTF's, Security Research, Vulnerability Assessment and Penetration Testing (VAPT), Security-related Content Writing 
 - Reach Me At: 
      1. Connect with me on my [Linkedin](https://linkedin.com/in/AliasgarSabunwala)
      2. See my tweets at [Twitter](https://twitter.com/AliasgarSabun)
@@ -60,7 +60,7 @@ I had certain certification on Azure such as
 # Collaboration Tools 
 I have expertise in 
 - GitHub
-- VS Code.
+- VS Code
 
 # Web Development
 I have good command on 
@@ -72,7 +72,7 @@ I have good command on
 - Node.js
 - React JS (which I'm learning right now) 
 and
-- good enough on Web Designing too.
+- good enough on Web Designing too
 
 # Databases 
 ### I have hands-on experience with 
@@ -96,9 +96,6 @@ and
 ### Reverse Engineering tools like 
 - OllyDBG
 - IDA PRO, etc.
-and
-</br>
-
 - Vulnerability scanners
 - IDS
 - Open Source Security tools
