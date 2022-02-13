@@ -1,11 +1,11 @@
 👋 Hello I'm 
 
      By Passion,
-     - App Developer, 
-     - Competitive Programmer (CP) coding in C/ C++ and Java in Codechef and CodeForces
-     - Catch The Flag (CTF) Player, 
-     - Cyber Security Researcher, 
-     - Cyber Security Content Writer 
+     - Secure Software Developer, 
+     - Competitive Programmer (CP) coding in C++ in Codechef and CodeForces
+     - Catch The Flag (CTF) Player, most notably, Indian Army Cyber Hackathon 2021 Level 3
+     - Cyber Security Researcher
+     - Cyber Security Content Writer at [Medium](https://aliasgarsabunwala.medium.com/)
       
      And By Nature, 
      - I'm a team player and 
@@ -16,11 +16,10 @@
 <!-- -🌱 I’m currently learning Vulnerability Assessment and Penetration Testing (VAPT) <!-- , AI, ML, Deep learning and Neural Network's -->
 - 💞️ I’m looking to collaborate and work on Software Development, SaaS, CTF's, Security Research, Vulnerability Assessment and Penetration Testing (VAPT), Security-related Content Writing <!-- , AI, ML, Deep learning and Neural Network's --> 
 - Reach Me At: 
-     1. [Linkedin](https://linkedin.com/in/AliasgarSabunwala)
-     3. I write Cyber Security related Content at [Medium](https://aliasgarsabunwala.medium.com/)
-     4. [Twitter](https://twitter.com/AliasgarSabun)
-     5. [Instagram](https://instagram.com/aliasgarsabunwala)
-     6. Mail Me [Here](aliasgarabidsabunwala@gmail.com).
+     1. Connect with me on my [Linkedin](https://linkedin.com/in/AliasgarSabunwala)
+     2. See my tweets at [Twitter](https://twitter.com/AliasgarSabun)
+     3. Mail Me [Here](aliasgarabidsabunwala@gmail.com).
+
 
 # Software Development
 - C++ 
@@ -43,9 +42,9 @@
 
 # Cloud Technologies 
 I have knowledge on 
-- AWS, 
-- GCP, 
-- Azure and 
+- AWS 
+- Google Cloud
+- Azure
 - Heroku. 
 
 <!-- ### Cloud Certification's
@@ -65,12 +64,12 @@ I have expertise in
 
 # Web Development
 I have good command on 
-- HTML, 
-- CSS,
-- JS, 
-- PHP, 
+- HTML 
+- CSS
+- JS
+- PHP
 - jQuery
-- Node.js, 
+- Node.js
 - React JS (which I'm learning right now) 
 and
 - good enough on Web Designing too.
@@ -78,58 +77,57 @@ and
 # Databases 
 ### I have hands-on experience with 
 #### SQL
-- MYSQL, 
-- MYSQL server, 
-- Oracle SQL, and 
+- MYSQL
+- MYSQL server
+- Oracle SQL
 - PL/SQL  
 
 #### NoSQL 
-- PostgreSQL and 
-- MongoDB, to name a few. 
+- MongoDB
 
 # Cyber Security
 ### I have hands-on experience with 
-- Metasploit framework, 
-- Nmap, 
-- Wireshark, 
-- OpenVAS, 
-- Lynix, 
+- Metasploit framework
+- Nmap 
+- Wireshark 
+- OpenVAS
+- Lynix
 
 ### Reverse Engineering tools like 
-- OllyDBG, 
+- OllyDBG
 - IDA PRO, etc.
 and
 </br>
 
-- vulnerability scanners, 
-- IDS,
-- Open Source Security tools,
+- Vulnerability scanners
+- IDS
+- Open Source Security tools
 - and Open Source Intelligence Tools (OSINT). 
 
-- Along with some Experience in developing security related tools/programs like [TraceRoute](https://github.com/AliasgarSabunwala/TraceRoute)
-- In-depth knowledge of TCP/ IP, HTTP, FTP, SSH, SSL and SMTP protocols.
-- Experience with network analysis tools, analysis of packet captures.
+- Along with some Experience in developing security related tools/ programs like [TraceRoute](https://github.com/AliasgarSabunwala/TraceRoute)
+- In-depth knowledge of TCP/IP, HTTP, FTP, SSH, SSL and SMTP protocols
+- Experience with network analysis tools, analysis of packet captures
 
 ### Strong understanding of 
-- VPN, 
-- Firewalls, 
-- Intrusion detection system (IDS) and IPS. 
+- VPN 
+- Firewalls 
+- Intrusion detection system (IDS) and IPS 
 
 ## Cyber Security Certifications
 - I have TCM "Practical Ethical Hacker" certification
 
 ## Computer Network Certifications
-- I have The Bytes and Bytes of Computer Networking certification by Google. 
+- I have The Bytes and Bytes of Computer Networking certification by Google, Coursera
 
 # OS
 I have System administrator expertise in 
-- Linux/ UNIX and 
-- Windows.
+- Linux
+- Windows
 
 ## Linux Certifications
 - Projects in Linux by Eduonix
 
 # Virtualization
-I have Knowledge of  Virtualization software's like 
-- VMWare, 
-- Virtual Box.
+I have Knowledge of Virtualization software's like 
+- VMWare
+- VirtualBox.
