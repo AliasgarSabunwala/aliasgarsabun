@@ -1,4 +1,4 @@
-👋 Hello I'm 
+👋 Hello I'm Ali 
 
      By Passion,
      - Secure Software Developer, 
@@ -24,8 +24,8 @@
 # Software Development
 - C++ 
 
-<!-- ### Project
-- [ARLibrary](https://github.com/AliasgarSabunwala/ARLibrary) - experience library in metaverse -->
+### Project
+- [ARLibrary](https://github.com/AliasgarSabunwala/ARLibrary) - experience library in metaverse
  
 ## Python 3
 
@@ -37,15 +37,15 @@
 1. Ruby, 
 2. Golang (Go)
 
-<!-- ### Project
-- [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) - social media API backend in Go using standard Library. -->
+### Project
+- [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) - social media API backend in Go using standard Library.
 
 # Cloud Technologies 
 I have knowledge on 
 - AWS 
 - Google Cloud
 - Azure
-- Heroku. 
+- Heroku
 
 <!-- ### Cloud Certification's
 I had certain certification on Azure such as 
@@ -99,7 +99,7 @@ and
 - Vulnerability scanners
 - IDS
 - Open Source Security tools
-- and Open Source Intelligence Tools (OSINT). 
+- and Open Source Intelligence Tools (OSINT)
 
 - Along with some Experience in developing security related tools/ programs like [TraceRoute](https://github.com/AliasgarSabunwala/TraceRoute)
 - In-depth knowledge of TCP/IP, HTTP, FTP, SSH, SSL and SMTP protocols
@@ -111,10 +111,10 @@ and
 - Intrusion detection system (IDS) and IPS 
 
 ## Cyber Security Certifications
-- I have TCM "Practical Ethical Hacker" certification
+- Practical Ethical Hacker, The Cyber Mentor (TCM)
 
 ## Computer Network Certifications
-- I have The Bytes and Bytes of Computer Networking certification by Google, Coursera
+- Bytes and Bytes of Computer Networking by Google, Coursera
 
 # OS
 I have System administrator expertise in 
