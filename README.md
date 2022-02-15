@@ -38,7 +38,7 @@
 2. Golang (Go)
 
 ### Project
-- [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) - social media API backend in Go using standard Library.
+- [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) - Social Media backend API in Go using standard Library.
 
 # Cloud Technologies 
 I have knowledge on 
@@ -55,7 +55,7 @@ I had certain certification on Azure such as
 - AZ-900, 
 - AZ-102, 
 - DA-100 (Azure Data Analyst) and 
-- AI-900 (Azure AI Fundamentals). -->
+- AI-900 (Azure AI Fundamentals) -->
 
 # Collaboration Tools 
 I have expertise in 
