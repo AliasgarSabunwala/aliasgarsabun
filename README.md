@@ -4,9 +4,9 @@
      - By Passion
           - Secure Software Developer, 
           - Competitive Programmer (CP) in Codechef and CodeForces
-          - Catch The Flag (CTF) Player, most notably, Pre-final Runner up in the final level, Level 3 Indian Army Hackathon 2021
+          - Catch The Flag (CTF) Player, notably, Pre-final Runner up in Level 3 Indian Army Hackathon 2021
           - Cyber Security Researcher
-          - Cyber Security Content Writer at [Medium](https://aliasgarsabunwala.medium.com/)
+          - Cyber Security Content Writer
       
       
      - By Nature 
@@ -21,7 +21,7 @@
      3. Mail Me [Here](aliasgarabidsabunwala@gmail.com)
      4. See my Cyber Security Content at [Medium](https://aliasgarsabunwala.medium.com/)
 
-
+ <center> # Summary </center>
 # Software Development 
 
 ### Project
