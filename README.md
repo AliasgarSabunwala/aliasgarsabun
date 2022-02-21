@@ -1,31 +1,31 @@
 👋 Hello I'm Ali 
 
-     By Passion,
-     - Secure Software Developer, 
-     - Competitive Programmer (CP) coding in C++ in Codechef and CodeForces
-     - Catch The Flag (CTF) Player, most notably, Indian Army Cyber Hackathon 2021 Level 3
-     - Cyber Security Researcher
-     - Cyber Security Content Writer at [Medium](https://aliasgarsabunwala.medium.com/)
+   # In a Nutshell
+     - By Passion
+          - Secure Software Developer, 
+          - Competitive Programmer (CP) in Codechef and CodeForces
+          - Catch The Flag (CTF) Player, most notably, Pre-final Runner up in the final level, Level 3 Indian Army Hackathon 2021
+          - Cyber Security Researcher
+          - Cyber Security Content Writer at [Medium](https://aliasgarsabunwala.medium.com/)
       
-     And By Nature, 
-     - I'm a team player and 
-     - have great leadership qualities and 
-     - believes in working together by taking everyone together as a team and always there to show up as and when required.
+      
+     - By Nature 
+          - Team player
+          - Great leadership qualities 
+          - Believes in working together by taking everyone together as a team
+          - Always there to show up as and when required
 
-- 👀 I’m interested in Secure Software Development, Secure Android App Development, PWAs, Flutter, Cyber Security, RNN
-<!-- -🌱 I’m currently learning Vulnerability Assessment and Penetration Testing (VAPT), RNN -->
-- 💞️ I’m looking to collaborate and work on Software Development, SaaS, CTF's, Security Research, Vulnerability Assessment and Penetration Testing (VAPT), Security-related Content Writing 
 - Reach Me At: 
      1. Connect with me on my [Linkedin](https://linkedin.com/in/AliasgarSabunwala)
      2. See my tweets at [Twitter](https://twitter.com/AliasgarSabun)
-     3. Mail Me [Here](aliasgarabidsabunwala@gmail.com).
+     3. Mail Me [Here](aliasgarabidsabunwala@gmail.com)
+     4. See my Cyber Security Content at [Medium](https://aliasgarsabunwala.medium.com/)
 
 
-# Software Development
-- C++ 
+# Software Development 
 
 ### Project
-- [ARLibrary](https://github.com/AliasgarSabunwala/ARLibrary) - experience library in metaverse
+- [ARLibrary](https://github.com/AliasgarSabunwala/ARLibrary) - Experience library in metaverse
  
 ## Python 3
 
@@ -34,11 +34,12 @@
 - [Secode](https://github.com/AliasgarSabunwala/Secode) - insecure Code Detector tool, that analyzes your code, to find Insecure Functions in your codes, that make it insecure
 
 ## Special-purpose Languages 
-1. Ruby, 
+1. Ruby
 2. Golang (Go)
 
 ### Project
 - [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) - Social Media backend API in Go using standard Library.
+
 
 # Cloud Technologies 
 I have knowledge on 
