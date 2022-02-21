@@ -1,6 +1,9 @@
 👋 Hello I'm Ali 
 
-   # In a Nutshell
+  <p align="center">
+       <b> In a Nutshell </b>
+</p>
+  
      - By Passion
           - Secure Software Developer, 
           - Competitive Programmer (CP) in Codechef and CodeForces
@@ -15,13 +18,19 @@
           - Believes in working together by taking everyone together as a team
           - Always there to show up as and when required
 
-- Reach Me At: 
+- Reach Me At:
      1. Connect with me on my [Linkedin](https://linkedin.com/in/AliasgarSabunwala)
      2. See my tweets at [Twitter](https://twitter.com/AliasgarSabun)
      3. Mail Me [Here](aliasgarabidsabunwala@gmail.com)
      4. See my Cyber Security Content at [Medium](https://aliasgarsabunwala.medium.com/)
 
- <center> # Summary </center>
+
+<br> </br>
+ 
+ <p align="center">
+       <b> Summary </b>
+</p>
+
 # Software Development 
 
 ### Project
