@@ -39,8 +39,8 @@
 ## Python 3
 
 ### Project
-- [TraceRoute](https://github.com/AliasgarSabunwala/TraceRoute) - tracing Any website or IP using OS native commands written in Python 3
-- [Secode](https://github.com/AliasgarSabunwala/Secode) - insecure Code Detector tool, that analyzes your code, to find Insecure Functions in your codes, that make it insecure
+- [TraceRoute](https://github.com/AliasgarSabunwala/TraceRoute) - tracing Any website or IP using OS native commands
+- [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
 
 ## Special-purpose Languages 
 1. Ruby
