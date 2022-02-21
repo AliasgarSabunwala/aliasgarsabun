@@ -5,9 +5,9 @@
 </p>
   
      - By Passion
-          - Secure Software Developer, 
+          - Secure Software Developer
           - Competitive Programmer (CP) in Codechef and CodeForces
-          - Catch The Flag (CTF) Player, notably, Pre-final Runner up in Level 3 Indian Army Hackathon 2021
+          - Catch The Flag (CTF) Player, notably, Pre-final Runner up to Indian Army Hackathon 2021
           - Cyber Security Researcher
           - Cyber Security Content Writer
       
@@ -34,7 +34,7 @@
 # Software Development 
 
 ### Project
-- [ARLibrary](https://github.com/AliasgarSabunwala/ARLibrary) - Experience library in metaverse
+- [Library](https://github.com/AliasgarSabunwala/Library) - Experience library in metaverse
  
 ## Python 3
 
@@ -47,7 +47,7 @@
 2. Golang (Go)
 
 ### Project
-- [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) - Social Media backend API in Go using standard Library.
+- [SM-Backend-API](https://github.com/AliasgarSabunwala/SM-Backend-API) - Social Media backend API in Go using standard Library
 
 
 # Cloud Technologies 
@@ -81,8 +81,7 @@ I have good command on
 - jQuery
 - Node.js
 - React JS (which I'm learning right now) 
-and
-- good enough on Web Designing too
+- good in Web Designing too
 
 # Databases 
 ### I have hands-on experience with 
@@ -105,7 +104,7 @@ and
 
 ### Reverse Engineering tools like 
 - OllyDBG
-- IDA PRO, etc.
+- IDA PRO
 - Vulnerability scanners
 - IDS
 - Open Source Security tools
