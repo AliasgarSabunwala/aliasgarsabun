@@ -19,9 +19,9 @@
           - Always there to show up as and when required
 
 - Reach Me At:
-     1. Connect with me on my [Linkedin](https://linkedin.com/in/AliasgarSabunwala)
-     2. See my tweets at [Twitter](https://twitter.com/AliasgarSabun)
-     3. Mail Me [Here](aliasgarabidsabunwala@gmail.com)
+     1. Connect with me on my [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)
+     2. See my tweets at [Twitter](https://twitter.com/AliasgarSabun/)
+     3. Mail Me [Here](alisabun007@gmail.com)
      4. See my Cyber Security Content at [Medium](https://aliasgarsabunwala.medium.com/)
 
 
