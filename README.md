@@ -1,4 +1,6 @@
-👋 Hello I'm Ali 
+👋 Hello I'm Ali
+
+![](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
 
   <p align="center">
        <b> In a Nutshell </b>
