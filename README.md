@@ -1,9 +1,7 @@
 👋 Hello I'm Ali
 
+<!-- PROFILE VIEWS by https://github.com/antonkomarev/github-profile-views-counter-->
 ![](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
-
-<!-- Y.HYPE-->
-![](https://hit.yhype.me/github/profile?user_id=67218125)
 
   <p align="center">
        <b> In a Nutshell </b>
