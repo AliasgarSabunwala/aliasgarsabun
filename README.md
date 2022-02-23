@@ -24,7 +24,7 @@
 - Reach Me At:
      1. Connect with me on my [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)
      2. See my tweets at [Twitter](https://twitter.com/AliasgarSabun/)
-     3. Mail Me [Here](alisabun007@gmail.com)
+     3. Mail Me [Here](mailto:alisabun007@gmail.com)
      4. See my Cyber Security Content at [Medium](https://aliasgarsabunwala.medium.com/)
 
 
@@ -34,24 +34,74 @@
        <b> Summary </b>
 </p>
 
+# Cyber Security
+### Hands-on experience with 
+- Metasploit framework (MSF)
+- Nmap 
+- Wireshark 
+- OpenVAS
+- Lynix
+- Vulnerability scanners
+- IDS
+- Open Source Security tools
+- and Open Source Intelligence Tools (OSINT)
+
+### Reverse Engineering tool's 
+- OllyDBG
+- IDA PRO
+
+### My security related tools/ programs
+- [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
+- [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
+- [Trace](https://github.com/AliasgarSabunwala/Trace) -  Pre-Vulnerability Analysis tool
+
+<br>
+
+- In-depth knowledge of TCP/IP, HTTP, FTP, SSH, SSL and SMTP protocols
+- Experience with network analysis tools, analysis of packet captures
+
+### Strong understanding of 
+- VPN 
+- Firewalls 
+- Intrusion detection system (IDS) and IPS 
+
+## Certification
+- Practical Ethical Hacker, The Cyber Mentor (TCM)
+
+## Network Certification
+- Bytes and Bytes of Computer Networking by Google, Coursera, Oct 20
+
+<br>
+
 # Software Development 
 
-### Project
-- [Library](https://github.com/AliasgarSabunwala/Library) - Experience library in metaverse
- 
-## Python 3
+## General-purpose language
+1. C++
+  - [LibMag](https://github.com/AliasgarSabunwala/LibMag) - Library Management written in C++ and MySQL
 
-### Project
-- [TraceRoute](https://github.com/AliasgarSabunwala/TraceRoute) - tracing Any website or IP using OS native commands
-- [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
+2. C#
+  - [eForum](https://github.com/AliasgarSabunwala/eForum) - Forum for Social groups for work display, discussions and suggestions
+
+## Interpreted language
+3. Python
+  - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
+  - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
 
 ## Special-purpose Languages 
-1. Ruby
-2. Golang (Go)
+4. Ruby
+5. Golang (Go)
+  - [SM-Backend-API](https://github.com/AliasgarSabunwala/SM-Backend-API) - Social Media backend API in Go using standard Library
 
-### Project
-- [SM-Backend-API](https://github.com/AliasgarSabunwala/SM-Backend-API) - Social Media backend API in Go using standard Library
+6. Assembly
+  - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryprion/ Decryption for 4 letters
 
+# Databases 
+Hands-on experience with -
+- MYSQL
+- MYSQL server
+- Oracle SQL
+- PL/SQL 
+- MongoDB
 
 # Cloud Technologies 
 I have knowledge on 
@@ -86,48 +136,6 @@ I have good command on
 - React JS (which I'm learning right now) 
 - good in Web Designing too
 
-# Databases 
-### I have hands-on experience with 
-#### SQL
-- MYSQL
-- MYSQL server
-- Oracle SQL
-- PL/SQL  
-
-#### NoSQL 
-- MongoDB
-
-# Cyber Security
-### I have hands-on experience with 
-- Metasploit framework
-- Nmap 
-- Wireshark 
-- OpenVAS
-- Lynix
-
-### Reverse Engineering tools like 
-- OllyDBG
-- IDA PRO
-- Vulnerability scanners
-- IDS
-- Open Source Security tools
-- and Open Source Intelligence Tools (OSINT)
-
-- Along with some Experience in developing security related tools/ programs like [TraceRoute](https://github.com/AliasgarSabunwala/TraceRoute)
-- In-depth knowledge of TCP/IP, HTTP, FTP, SSH, SSL and SMTP protocols
-- Experience with network analysis tools, analysis of packet captures
-
-### Strong understanding of 
-- VPN 
-- Firewalls 
-- Intrusion detection system (IDS) and IPS 
-
-## Cyber Security Certifications
-- Practical Ethical Hacker, The Cyber Mentor (TCM)
-
-## Computer Network Certifications
-- Bytes and Bytes of Computer Networking by Google, Coursera
-
 # OS
 I have System administrator expertise in 
 - Linux
@@ -139,4 +147,4 @@ I have System administrator expertise in
 # Virtualization
 I have Knowledge of Virtualization software's like 
 - VMWare
-- VirtualBox.
+- VirtualBox
