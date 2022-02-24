@@ -35,20 +35,16 @@
 </p>
 
 # Cyber Security
-### Hands-on experience with 
-- Metasploit framework (MSF)
-- Nmap 
-- Wireshark 
-- OpenVAS
-- Lynix
-- Vulnerability scanners
-- IDS
-- Open Source Security tools
-- and Open Source Intelligence Tools (OSINT)
+### Hands-on experience with-
+  - Metasploit framework (MSF)
+  - Nmap 
+  - Wireshark 
+  - OpenVAS
+  - Lynix
 
 ### Reverse Engineering tool's 
-- OllyDBG
-- IDA PRO
+  - OllyDBG
+  - IDA PRO
 
 ### My security related tools/ programs
 - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
@@ -56,9 +52,6 @@
 - [Trace](https://github.com/AliasgarSabunwala/Trace) -  Pre-Vulnerability Analysis tool
 
 <br>
-
-- In-depth knowledge of TCP/IP, HTTP, FTP, SSH, SSL and SMTP protocols
-- Experience with network analysis tools, analysis of packet captures
 
 ### Strong understanding of 
 - VPN 
@@ -69,7 +62,7 @@
 - Practical Ethical Hacker, The Cyber Mentor (TCM)
 
 ## Network Certification
-- Bytes and Bytes of Computer Networking by Google, Coursera, Oct 20
+- [The Bytes and Bytes of Computer Networking by Google, Coursera, Oct 20](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
 
 <br>
 
@@ -84,8 +77,8 @@
 
 ## Interpreted language
 3. Python
-  - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
-  - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
+  1. [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
+  2. [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
 
 ## Special-purpose Languages 
 4. Ruby
@@ -105,20 +98,22 @@ Hands-on experience with -
 
 # Cloud Technologies 
 I have knowledge on 
+- Azure
 - AWS 
 - Google Cloud
-- Azure
 - Heroku
 
 <!-- ### Cloud Certification's
-I had certain certification on Azure such as 
-- AZ-500, 
-- AZ-104, 
-- AZ-204, 
-- AZ-900, 
-- AZ-102, 
-- DA-100 (Azure Data Analyst) and 
-- AI-900 (Azure AI Fundamentals) -->
+I had various Azure Cloud Certifications- 
+- Azure Security Technologies (AZ-500) 
+This course provides IT Security Professionals with the knowledge and skills needed to implement security controls, maintain an organization’s security posture, and identify and remediate security vulnerabilities. The course includes security for identity and access, platform protection, data and applications, and security operations.
+
+- AZ-104
+- AZ-204 
+- AZ-900 
+- AZ-102 
+- Azure Data Analyst (DA-100) and 
+- Azure AI Fundamentals (AI-900) -->
 
 # Collaboration Tools 
 I have expertise in 
@@ -142,7 +137,7 @@ I have System administrator expertise in
 - Windows
 
 ## Linux Certifications
-- Projects in Linux by Eduonix
+- [Projects in Linux - Learn Linux Doing Real World Projects, Eduonix, Feb 20](https://www.eduonix.com/certificate/a7b154d9ad)
 
 # Virtualization
 I have Knowledge of Virtualization software's like 
