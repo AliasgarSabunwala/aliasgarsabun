@@ -59,7 +59,7 @@
 - Intrusion detection system (IDS) and IPS 
 
 ## Certification
-- Practical Ethical Hacker, The Cyber Mentor (TCM)
+- Practical Ethical Hacking - The Complete Course, TCM Security
 
 ## Network Certification
 - [The Bytes and Bytes of Computer Networking by Google, Coursera, Oct 20](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
