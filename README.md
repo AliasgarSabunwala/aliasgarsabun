@@ -1,17 +1,11 @@
-👋 Hello I'm Ali
+👋 Hello, I'm Ali Asgar
 
 <!-- PROFILE VIEWS by https://github.com/antonkomarev/github-profile-views-counter-->
-![](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
-
-  <p align="center">
-       <b> In a Nutshell </b>
-</p>
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
   
      - By Passion
           - Secure Software Developer
-          - Competitive Programmer (CP) in Codechef and CodeForces
           - Catch The Flag (CTF) Player, notably, Pre-final Runner up to Indian Army Hackathon 2021
-          - Cyber Security Researcher
           - Cyber Security Content Writer
       
       
@@ -22,13 +16,12 @@
           - Always there to show up as and when required
 
 - Reach Me At:
-     1. Connect with me on my [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)
+     1. Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)
      2. See my tweets at [Twitter](https://twitter.com/AliasgarSabun/)
      3. Mail Me [Here](mailto:alisabun007@gmail.com)
      4. See my Cyber Security Content at [Medium](https://aliasgarsabunwala.medium.com/)
 
-
-<br> </br>
+<br>
  
  <p align="center">
        <b> Summary </b>
@@ -46,7 +39,7 @@
   - OllyDBG
   - IDA PRO
 
-### My security related tools/ programs
+### My Cyber Security tools/ programs
 - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
 - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
 - [Trace](https://github.com/AliasgarSabunwala/Trace) -  Pre-Vulnerability Analysis tool
@@ -88,7 +81,7 @@
 6. Assembly
   - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryprion/ Decryption for 4 letters
 
-# Databases 
+# Database
 Hands-on experience with -
 - MYSQL
 - MYSQL server
@@ -96,8 +89,8 @@ Hands-on experience with -
 - PL/SQL 
 - MongoDB
 
-# Cloud Technologies 
-I have knowledge on 
+# Cloud Technologies
+I have knowledge on -
 - Azure
 - AWS 
 - Google Cloud
