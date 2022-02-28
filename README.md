@@ -3,13 +3,9 @@
 <!-- PROFILE VIEWS by https://github.com/antonkomarev/github-profile-views-counter-->
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
   
-     - By Passion
-          - Secure Software Developer
           - Catch The Flag (CTF) Player, notably, Pre-final Runner up to Indian Army Hackathon 2021
           - Cyber Security Content Writer
-      
-      
-     - By Nature 
+          - Secure Software Developer 
           - Team player
           - Great leadership qualities 
           - Believes in working together by taking everyone together as a team
@@ -28,7 +24,7 @@
 </p>
 
 # Cyber Security
-### Hands-on experience with-
+### Hands-on experience with -
   - Metasploit framework (MSF)
   - Nmap 
   - Wireshark 
