@@ -2,20 +2,24 @@
 
 <!-- PROFILE VIEWS by https://github.com/antonkomarev/github-profile-views-counter-->
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
-  
-          - Catch The Flag (CTF) Player, notably, Pre-final Runner up to Indian Army Hackathon 2021
-          - Cyber Security Content Writer
-          - Secure Software Developer 
-          - Team player
-          - Great leadership qualities 
-          - Believes in working together by taking everyone together as a team
-          - Always there to show up as and when required
+
+<p align="center">
+       <b> In a Nutshell </b>
+</p>
+
+- Catch The Flag (CTF) Player, notably, Finals to [Indian Army Hackathon 2021](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
+- Cyber Security Content Writer
+- Secure Software Developer 
+- Team player
+- Great leadership qualities 
+- Believes in working together by taking everyone together as a team
+- Always there to show up as and when required
 
 - Reach Me At:
-     1. Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)
+     1. Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
      2. See my tweets at [Twitter](https://twitter.com/AliasgarSabun/)
-     3. Mail Me [Here](mailto:alisabun007@gmail.com)
-     4. See my Cyber Security Content at [Medium](https://aliasgarsabunwala.medium.com/)
+     3. Mail Me [here](mailto:alisabun007@gmail.com)
+     4. Read my Cyber Security Content at [Medium](https://aliasgarsabunwala.medium.com/)
 
 <br>
  
@@ -79,18 +83,18 @@
 
 # Database
 Hands-on experience with -
-- MYSQL
-- MYSQL server
+- MySQL
+- MySQL server
 - Oracle SQL
 - PL/SQL 
 - MongoDB
 
-# Cloud Technologies
+<!-- # Cloud Technologies
 I have knowledge on -
 - Azure
 - AWS 
 - Google Cloud
-- Heroku
+- Heroku  -->
 
 <!-- ### Cloud Certification's
 I had various Azure Cloud Certifications- 
