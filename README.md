@@ -1,20 +1,15 @@
 👋 Hello, I'm Ali Asgar
 
-<!-- PROFILE VIEWS by https://github.com/antonkomarev/github-profile-views-counter-->
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
 
-<p align="center">
-       <b> In a Nutshell </b>
-</p>
+<p align="center"> <b> In a Nutshell </b> </p>
 
 - Catch The Flag (CTF) Player, notably, Finals to [Indian Army Hackathon 2021](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
-- Cyber Security Content Writer
-- Secure Software Developer 
+- Cyber Security Writer
+- Secure Software Developer
+- Cyber Security Researcher
 - Team player
-- Great leadership qualities 
-- Believes in working together by taking everyone together as a team
-- Always there to show up as and when required
-
+- Leader By Nature 
 - Reach Me At:
      1. Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
      2. See my tweets at [Twitter](https://twitter.com/AliasgarSabun/)
@@ -23,11 +18,8 @@
 
 <br>
  
- <p align="center">
-       <b> Summary </b>
-</p>
+<p align="center"> <b> Cyber Security </b> </p>
 
-# Cyber Security
 ### Hands-on experience with -
   - Metasploit framework (MSF)
   - Nmap 
@@ -44,44 +36,43 @@
 - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
 - [Trace](https://github.com/AliasgarSabunwala/Trace) -  Pre-Vulnerability Analysis tool
 
-<br>
-
 ### Strong understanding of 
 - VPN 
 - Firewalls 
 - Intrusion detection system (IDS) and IPS 
 
-## Certification
+### Certification
 - Practical Ethical Hacking - The Complete Course, TCM Security
 
-## Network Certification
+### Network Certification
 - [The Bytes and Bytes of Computer Networking by Google, Coursera, Oct 20](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
 
 <br>
 
-# Software Development 
+<p align="center"> <b> Software Development </b> </p>  
 
-## General-purpose language
-1. C++
+### General-purpose language
+1. C++ (C++ 11)
   - [LibMag](https://github.com/AliasgarSabunwala/LibMag) - Library Management written in C++ and MySQL
 
 2. C#
-  - [eForum](https://github.com/AliasgarSabunwala/eForum) - Forum for Social groups for work display, discussions and suggestions
+  - [eForum](https://github.com/AliasgarSabunwala/eForum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
 
-## Interpreted language
-3. Python
-  1. [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
-  2. [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
+### Interpreted language
+3. Python (Py3)
+  - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer written in Python for scanning insecure functions in a given C++ code
+  - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
 
-## Special-purpose Languages 
-4. Ruby
-5. Golang (Go)
-  - [SM-Backend-API](https://github.com/AliasgarSabunwala/SM-Backend-API) - Social Media backend API in Go using standard Library
+### Special-purpose Languages 
+4. Golang (Go)
+  - [SM-Backend-API](https://github.com/AliasgarSabunwala/SM-Backend-API) - Social Media backend API Implementation in Go using standard Library to avoid attacks like 
 
-6. Assembly
+5. Assembly (ASM)
   - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryprion/ Decryption for 4 letters
 
-# Database
+<br>
+<p align="center"> <b> Database </b> </p> 
+
 Hands-on experience with -
 - MySQL
 - MySQL server
@@ -89,31 +80,37 @@ Hands-on experience with -
 - PL/SQL 
 - MongoDB
 
-<!-- # Cloud Technologies
+<p align="center"> <b> Cloud Technologies </b> </p> 
+
 I have knowledge on -
 - Azure
 - AWS 
 - Google Cloud
-- Heroku  -->
+- Heroku
 
-<!-- ### Cloud Certification's
-I had various Azure Cloud Certifications- 
+<!--
+### Cloud Certifications  
 - Azure Security Technologies (AZ-500) 
-This course provides IT Security Professionals with the knowledge and skills needed to implement security controls, maintain an organization’s security posture, and identify and remediate security vulnerabilities. The course includes security for identity and access, platform protection, data and applications, and security operations.
+       - This course provides IT Security Professionals with the knowledge and skills needed to implement security controls, maintain an organization’s security posture, and identify and remediate security vulnerabilities. The course includes security for identity and access, platform protection, data and applications, and security operations.
 
 - AZ-104
 - AZ-204 
 - AZ-900 
 - AZ-102 
-- Azure Data Analyst (DA-100) and 
-- Azure AI Fundamentals (AI-900) -->
+- Azure Data Analyst (DA-100) 
+- Azure AI Fundamentals (AI-900)
+-->
 
-# Collaboration Tools 
+<br>
+<p align="center"> <b> Collaboration Tools </b> </p> 
+
 I have expertise in 
 - GitHub
 - VS Code
 
-# Web Development
+<br>
+<p align="center"> <b> Web Development </b> </p>
+
 I have good command on 
 - HTML 
 - CSS
@@ -124,15 +121,18 @@ I have good command on
 - React JS (which I'm learning right now) 
 - good in Web Designing too
 
-# OS
+<br>
+<p align="center"> <b> Operating Systems (OS) </b> </p>   
 I have System administrator expertise in 
 - Linux
 - Windows
 
-## Linux Certifications
+### Linux Certification
 - [Projects in Linux - Learn Linux Doing Real World Projects, Eduonix, Feb 20](https://www.eduonix.com/certificate/a7b154d9ad)
 
-# Virtualization
-I have Knowledge of Virtualization software's like 
+<br>
+<p align="center"> <b> Virtualization </b> </p>
+
+I have Knowledge of Virtualization software's like -
 - VMWare
 - VirtualBox
