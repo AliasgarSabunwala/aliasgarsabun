@@ -65,7 +65,7 @@
 
 ### Special-purpose Languages 
 4. Golang (Go)
-  - [SM-Backend-API](https://github.com/AliasgarSabunwala/SM-Backend-API) - Social Media backend API Implementation in Go using standard Library to avoid attacks like 
+  - [SM-Backend-API](https://github.com/AliasgarSabunwala/SM-Backend-API) - Social Media backend API Implementation in Go using standard Library to avoid attacks like Weak Randomness
 
 5. Assembly (ASM)
   - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryprion/ Decryption for 4 letters
