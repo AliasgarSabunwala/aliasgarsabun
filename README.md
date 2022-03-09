@@ -20,18 +20,18 @@
  
 <p align="center"> <b> Cyber Security </b> </p>
 
-### Hands-on experience with -
+### Hands-on experience -
   - Metasploit framework (MSF)
   - Nmap 
   - Wireshark 
   - OpenVAS
   - Lynix
 
-### Reverse Engineering tool's 
+### Reverse Engineering tool's -
   - OllyDBG
   - IDA PRO
 
-### My Cyber Security tools/ programs
+### My Cyber Security tools/ Program's -
 - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
 - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
 - [Trace](https://github.com/AliasgarSabunwala/Trace) -  Pre-Vulnerability Analysis tool
@@ -39,7 +39,8 @@
 ### Strong understanding of 
 - VPN 
 - Firewalls 
-- Intrusion detection system (IDS) and IPS 
+- Intrusion Detection System (IDS)
+- Intrusion Prevention System (IPS)
 
 ### Certification
 - Practical Ethical Hacking - The Complete Course, TCM Security
