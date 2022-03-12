@@ -7,7 +7,6 @@
 - Catch The Flag (CTF) Player, notably, Finals to [Indian Army Hackathon 2021](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 - Cyber Security Writer
 - Secure Software Developer
-- Cyber Security Researcher
 - Team player
 - Leader By Nature 
 - Reach Me At:
