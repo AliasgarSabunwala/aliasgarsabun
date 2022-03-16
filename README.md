@@ -1,4 +1,4 @@
-👋 Hello, I'm Ali Asgar
+👋 Hey, I'm Ali
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
 
