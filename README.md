@@ -10,7 +10,6 @@
 - Team player
 - Leader By Nature 
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
-- See my tweets at [Twitter](https://twitter.com/AliasgarSabun/)
 
 <br>
  
