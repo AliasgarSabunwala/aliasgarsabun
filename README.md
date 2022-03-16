@@ -118,7 +118,8 @@ I have good command on
 - good in Web Designing too
 
 <br>
-<p align="center"> <b> Operating Systems (OS) </b> </p>   
+<p align="center"> <b> Operating Systems (OS) </b> </p>  
+
 I have System administrator expertise in 
 - Linux
 - Windows
