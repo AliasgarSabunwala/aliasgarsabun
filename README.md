@@ -36,7 +36,7 @@ Strong understanding of -
 
 Certification -
 - Practical Ethical Hacking - The Complete Course, TCM Security
-- Network Certification [The Bytes and Bytes of Computer Networking by Google, Coursera](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
+- Network Certification - [The Bytes and Bytes of Computer Networking by Google, Coursera](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
 
 <br>
 
