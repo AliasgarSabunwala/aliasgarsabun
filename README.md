@@ -4,9 +4,8 @@
 
 <p align="center"> <b> In a Nutshell </b> </p>
 
-- Catch The Flag (CTF) Player, notably, [Indian Army Cyber Security Hackathon Finalist (2021)](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
+- [The Indian Army Cyber Security Hackathon Finalist (2021)](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 - Technical Writer at [Medium](https://aliasgarsabunwala.medium.com/)
-- Secure Software Developer
 - Team player
 - Leader By Nature 
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
