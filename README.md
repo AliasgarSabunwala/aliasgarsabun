@@ -4,7 +4,7 @@
 
 <p align="center"> <b> In a Nutshell </b> </p>
 
-- [The Indian Army Cyber Security Hackathon Finalist (2021)](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
+- [The Indian Army Cyber Security Hackathon 2021 Finalist](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 - Technical Writer at [Medium](https://aliasgarsabunwala.medium.com/)
 - Team player
 - Leader By Nature 
@@ -81,20 +81,7 @@ I have knowledge on -
 - Azure
 - AWS 
 - Google Cloud
-- Heroku
 
-<!--
-### Cloud Certifications  
-- Azure Security Technologies (AZ-500) 
-       - This course provides IT Security Professionals with the knowledge and skills needed to implement security controls, maintain an organization’s security posture, and identify and remediate security vulnerabilities. The course includes security for identity and access, platform protection, data and applications, and security operations.
-
-- AZ-104
-- AZ-204 
-- AZ-900 
-- AZ-102 
-- Azure Data Analyst (DA-100) 
-- Azure AI Fundamentals (AI-900)
--->
 
 <br>
 <p align="center"> <b> Collaboration Tools </b> </p> 
@@ -104,27 +91,12 @@ I have expertise in
 - VS Code
 
 <br>
-<p align="center"> <b> Web Development </b> </p>
-
-I have good command on 
-- HTML 
-- CSS
-- JS
-- PHP
-- jQuery
-- Node.js
-- React JS (which I'm learning right now) 
-- good in Web Designing too
-
-<br>
 <p align="center"> <b> Operating Systems (OS) </b> </p>  
 
 I have System administrator expertise in 
 - Linux
 - Windows
-
-### Linux Certification
-- [Projects in Linux - Learn Linux Doing Real World Projects, Eduonix, Feb 20](https://www.eduonix.com/certificate/a7b154d9ad)
+- Linux Certification - [Projects in Linux - Learn Linux Doing Real World Projects, Eduonix](https://www.eduonix.com/certificate/a7b154d9ad)
 
 <br>
 <p align="center"> <b> Virtualization </b> </p>
