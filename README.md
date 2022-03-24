@@ -43,19 +43,21 @@ Certification -
 
 <p align="center"> <b> Software Development </b> </p>  
 
-General-purpose language
+General-purpose Language -
 1. C++ (C++ 11)
   - [LibMag](https://github.com/AliasgarSabunwala/LibMag) - Library Management written in C++ and MySQL
 
 2. C#
   - [eForum](https://github.com/AliasgarSabunwala/eForum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
 
-Interpreted language
+Interpreted Language - 
+
 3. Python (Py3)
   - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer written in Python for scanning insecure functions in a given C++ code
   - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
 
-Special-purpose Language 
+Special-purpose Language -
+
 4. Golang (Go)
   - [SM-Backend-API](https://github.com/AliasgarSabunwala/SM-Backend-API) - Social Media backend API Implementation in Go using standard Library to avoid attacks like Weak Randomness
 
