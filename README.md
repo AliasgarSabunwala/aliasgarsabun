@@ -2,6 +2,7 @@
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
 
+- Problem Solver
 - [The Indian Army Cyber Security Hackathon 2021 Finalist](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 - Technical Writer at [Medium](https://aliasgarsabunwala.medium.com/)
 - Team player
