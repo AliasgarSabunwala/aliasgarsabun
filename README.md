@@ -39,6 +39,7 @@ Certification -
 - Practical Ethical Hacking - The Complete Course, TCM Security
 - Network Certification - [The Bytes and Bytes of Computer Networking by Google, Coursera](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
 
+- CEH (Pratical) V11 Scholarship
 <br>
 
 <p align="center"> <b> Software Development </b> </p>  
@@ -50,18 +51,21 @@ General-purpose Language -
 2. C#
   - [eForum](https://github.com/AliasgarSabunwala/eForum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
 
+3. Java
+  - Banking Management Submitted to Geonix, an Australian Company
+
 Interpreted Language - 
 
-3. Python (Py3)
+4. Python (Py3)
   - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer written in Python for scanning insecure functions in a given C++ code
   - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
 
 Special-purpose Language -
 
-4. Golang (Go)
+5. Golang (Go)
   - [SM-Backend-API](https://github.com/AliasgarSabunwala/SM-Backend-API) - Social Media backend API Implementation in Go using standard Library to avoid attacks like Weak Randomness
 
-5. Assembly (ASM)
+6. Assembly (ASM)
   - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryprion/ Decryption for 4 letters
 
 <br>
