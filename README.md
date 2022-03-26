@@ -3,6 +3,8 @@
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
 
 - Problem Solver
+- Cyber Security and Digital Forensics learner
+- CTF Player
 - [The Indian Army Cyber Security Hackathon 2021 Finalist](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 - Technical Writer at [Medium](https://aliasgarsabunwala.medium.com/)
 - Team player
@@ -20,9 +22,9 @@ Hands-on experience -
   - OpenVAS
   - Lynix
 
-Reverse Engineering tool's -
-  - OllyDBG
-  - IDA PRO
+  - Reverse Engineering tool's -
+      - OllyDBG
+      - IDA PRO
 
 My Cyber Security tools/ Program's -
 - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
@@ -30,12 +32,12 @@ My Cyber Security tools/ Program's -
 - [Trace](https://github.com/AliasgarSabunwala/Trace) -  Pre-Vulnerability Analysis tool
 
 Strong understanding of -
-- VPN 
-- Firewalls 
+- VPN's
+- Firewalls & Next-gen Firewalls 
 - Intrusion Detection System (IDS)
 - Intrusion Prevention System (IPS)
 
-Certification -
+Certifications -
 - Practical Ethical Hacking - The Complete Course, TCM Security
 - Network Certification - [The Bytes and Bytes of Computer Networking by Google, Coursera](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
 
