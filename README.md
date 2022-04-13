@@ -20,7 +20,7 @@ Hands-on experience -
   - Nmap 
   - Wireshark 
   - OpenVAS
-  - Lynix
+  - Lynix, etc. etc....
 
   - Reverse Engineering tool's -
       - OllyDBG
