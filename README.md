@@ -4,10 +4,11 @@
 
 - Problem Solver
 - Cyber Security and Digital Forensics Learner
-- CTF Player
+- Creator of some many Cyber Security tools including [Secode](https://github.com/AliasgarSabunwala/Secode), [NetTracer](https://github.com/AliasgarSabunwala/NetTracer), [Trace](https://github.com/AliasgarSabunwala/Trace)
+- CTF Player at TryHackMe, HackTheBox
 - [The Indian Army Cyber Security Hackathon 2021 Finalist](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 - Read my Cyber Security and Security Articles at [Medium](https://aliasgarsabunwala.medium.com/)
-- Team player
+- Team Player
 - Leader By Nature 
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
 
