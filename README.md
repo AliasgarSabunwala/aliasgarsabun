@@ -78,7 +78,7 @@ Special-purpose Language -
 
 Hands-on experience with -
 - MySQL
-- MySQL server
+- MySQL Server
 - Oracle SQL
 - PL/SQL 
 - MongoDB
