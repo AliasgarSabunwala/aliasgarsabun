@@ -6,7 +6,7 @@
 - Cyber Security and Digital Forensics Learner
 - CTF Player
 - [The Indian Army Cyber Security Hackathon 2021 Finalist](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
-- Technical Writer at [Medium](https://aliasgarsabunwala.medium.com/)
+- Read my Cyber Security and Security Articles at [Medium](https://aliasgarsabunwala.medium.com/)
 - Team player
 - Leader By Nature 
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
@@ -18,13 +18,14 @@
 Hands-on experience -
   - Metasploit framework (MSF)
   - Nmap 
+  - OWASP ZAP
   - Wireshark 
   - OpenVAS
-  - Lynix, etc. etc....
+  - Lynix, etc.
 
   - Reverse Engineering tool's -
       - OllyDBG
-      - IDA PRO
+      - IDA PRO, etc.
 
 My Cyber Security tools/ Program's -
 - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
