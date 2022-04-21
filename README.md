@@ -39,10 +39,11 @@ Strong understanding of -
 - Intrusion Detection System (IDS)
 - Intrusion Prevention System (IPS)
 
-Certifications -
+Certification -
 - Practical Ethical Hacking - The Complete Course, TCM Security
 - Network Certification - [The Bytes and Bytes of Computer Networking by Google, Coursera](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
 
+Scholarship -
 - CEH (Pratical) V11 Scholarship
 <br>
 
