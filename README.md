@@ -31,7 +31,6 @@ Hands-on experience -
 My Cyber Security tools/ Program's -
 - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
 - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
-- [Trace](https://github.com/AliasgarSabunwala/Trace) -  Pre-Vulnerability Analysis tool
 
 Strong understanding of -
 - VPN's
