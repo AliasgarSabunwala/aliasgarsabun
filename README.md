@@ -17,7 +17,10 @@
 <p align="center"> <b> Cyber Security </b> </p>
 
 Hands-on experience -
+  - Splunk (Ongoing learning to achieve excellency)
+  - Sophos (Ongoing learning to achieve excellency)
   - Metasploit framework (MSF)
+  - BurpSuite Community and Pro Edition
   - Nmap 
   - OWASP ZAP
   - Wireshark 
