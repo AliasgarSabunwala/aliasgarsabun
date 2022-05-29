@@ -19,13 +19,13 @@
 Hands-on experience -
   - Splunk (Ongoing learning to achieve excellency)
   - Sophos (Ongoing learning to achieve excellency)
-  - Metasploit framework (MSF)
+  - Metasploit Framework (MSF)
   - BurpSuite Community and Pro Edition
   - Nmap 
   - OWASP ZAP
   - Wireshark 
   - OpenVAS
-  - Lynix, etc.
+  - Lynix, etc. tools in Parrot Security OS and Kali Linux
 
   - Reverse Engineering tool's -
       - OllyDBG
@@ -46,7 +46,7 @@ Certification -
 - Network Certification - [The Bytes and Bytes of Computer Networking by Google, Coursera](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
 
 Scholarship -
-- CEH (Pratical) V11 Scholarship
+- CEH (Pratical) V11 Exam Scholarship
 <br>
 
 <p align="center"> <b> Software Development </b> </p>  
