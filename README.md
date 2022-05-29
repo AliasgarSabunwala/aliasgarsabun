@@ -3,7 +3,7 @@
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
 
 - Problem Solver
-- Applying Cyber Security and Digital Forensics Learnings at Try Hack Me and Hack The Box
+- Applying my Cyber Security and Digital Forensics Learnings at Try Hack Me and Hack The Box
 - Creator of Cyber Security tools like [Secode](https://github.com/AliasgarSabunwala/Secode) and [NetTracer](https://github.com/AliasgarSabunwala/NetTracer)
 - Catch The Flag (CTF) Player at Try Hack Me Hill, Hack The Box CTF's, Indian Army Hackathon 2021 (Finalist in CTF Track), Intrigiti 1337 CTF and IIT Madras CTF 2022
 - [The Indian Army Cyber Security Hackathon 2021 Finalist in CTF Track](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
