@@ -3,13 +3,11 @@
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
 
 - Problem Solver
-- Applying my Cyber Security and Digital Forensics Learnings at Try Hack Me and Hack The Box
+- Cyber Security and Digital Forensics Practitioner at Try Hack Me and Hack The Box
 - Creator of Cyber Security tools like [Secode](https://github.com/AliasgarSabunwala/Secode) and [NetTracer](https://github.com/AliasgarSabunwala/NetTracer)
-- Catch The Flag (CTF) Player at Try Hack Me King of Hill, Hack The Box CTF's, Indian Army Hackathon 2021 Finalist in CTF Track, Intrigiti 1337 CTF and IIT Madras CTF 2022
+- Catch The Flag (CTF) Player at Try Hack Me King of Hill, Hack The Box CTF's, Indian Army Hackathon 2021, Intrigiti 1337 CTF and IIT Madras CTF 2022
 - [The Indian Army Cyber Security Hackathon 2021 Finalist in CTF Track](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
-- Read my Cyber Security and Security Articles at [Medium](https://aliasgarsabunwala.medium.com/)
-- Team Player
-- Leader By Nature 
+- Read my Cyber Security and Security Articles at [Medium](https://aliasgarsabunwala.medium.com/) 
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
 
 <br>
@@ -19,8 +17,8 @@
 Hands-on experience -
   - Splunk (Ongoing learning to achieve excellency)
   - Sophos (Ongoing learning to achieve excellency)
-  - Metasploit Framework (MSF)
-  - BurpSuite Community and Pro Edition
+  - Metasploit
+  - BurpSuite
   - Nmap 
   - OWASP ZAP
   - Wireshark 
