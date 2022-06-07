@@ -5,7 +5,7 @@
 - Problem Solver
 - Cyber Security and Digital Forensics Practitioner at Try Hack Me and Hack The Box
 - Creator of Cyber Security tools like [Secode](https://github.com/AliasgarSabunwala/Secode) and [NetTracer](https://github.com/AliasgarSabunwala/NetTracer)
-- Catch The Flag (CTF) Player at Try Hack Me King of Hill, Hack The Box CTF's, Indian Army Hackathon 2021, Intrigiti 1337 CTF and IIT Madras CTF 2022
+- Catch The Flag (CTF) Player at Try Hack Me King of Hill, Hack The Box CTF's. Played Indian Army Hackathon CTF 2021, Intrigiti 1337 CTF and IIT Madras CTF 2022.
 - [The Indian Army Cyber Security Hackathon 2021 Finalist in CTF Track](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 - Read my Cyber Security and Security Articles at [Medium](https://aliasgarsabunwala.medium.com/) 
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
@@ -29,7 +29,7 @@ Hands-on experience -
       - OllyDBG
       - IDA PRO, etc.
 
-My Cyber Security tools/ Program's -
+My Cyber Security Tools/ Program's -
 - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
 - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
 
@@ -57,7 +57,7 @@ General-purpose Language -
   - [eForum](https://github.com/AliasgarSabunwala/eForum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
 
 3. Java
-  - Banking Management - Submitted to Geonix, an Australian Company, sponser of 4 days Java Workshop on Nov 2019 in VIT Bhopal Campus
+  - Identify Management, Submitted to Geonix, an Australian Company, sponser of 4 days Java Workshop on Nov 2019 in VIT Bhopal Campus
 
 Interpreted Language - 
 
