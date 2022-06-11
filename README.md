@@ -7,7 +7,7 @@
 - Creator of Cyber Security tools like [Secode](https://github.com/AliasgarSabunwala/Secode) and [NetTracer](https://github.com/AliasgarSabunwala/NetTracer)
 - Catch The Flag (CTF) Player at Try Hack Me King of Hill, Hack The Box CTF's. Played Indian Army Hackathon CTF 2021, Intrigiti 1337 CTF and IIT Madras CTF 2022.
 - [The Indian Army Cyber Security Hackathon 2021 Finalist in CTF Track](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
-- Read my Cyber Security and Security Articles at [Medium](https://aliasgarsabunwala.medium.com/) 
+- Read my Cyber Security and Security Articles at [Medium](https://aliasgarsabunwala.medium.com/) and Kn
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
 
 <br>
@@ -68,7 +68,7 @@ Interpreted Language -
 Special-purpose Language -
 
 5. Golang (Go)
-  - [SM-Backend-API](https://github.com/AliasgarSabunwala/SM-Backend-API) - Social Media backend API Implementation in Go using standard Library to avoid attacks like Weak Randomness
+  - [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) - Social Media backend API Implementation in Go standard Library to avoid attacks like Weak Randomness
 
 6. Assembly (ASM)
   - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryprion/ Decryption for 4 letters
