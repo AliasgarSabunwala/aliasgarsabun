@@ -1,14 +1,21 @@
+
+
+# Securing, Coding, Designing, Writing and Chilling! This is me in the nutshell.
+
 👋🏻 Hey, Ali here
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
 
+I'm 
 - Problem Solver
 - Cyber Security and Digital Forensics Practitioner at Try Hack Me and Hack The Box
+- Open-source Contributor
+- Cyber Security Researcher
 - Creator of Cyber Security tools like [Secode](https://github.com/AliasgarSabunwala/Secode) and [NetTracer](https://github.com/AliasgarSabunwala/NetTracer)
 - Catch The Flag (CTF) Player at Try Hack Me King of Hill, and Hack The Box CTF's, etc.
 - Played Indian Army Hackathon CTF 2021, Intrigiti 1337 CTF 2022, and IIT Madras CTF 2022
 - [The Indian Army Cyber Security Hackathon 2021 Finalist in CTF Track](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
-- Read my Cyber Security and Security Articles at [Medium](https://aliasgarsabunwala.medium.com/) and Kn
+- Read my Cyber Security and Security Articles at [Medium](https://aliasgarsabunwala.medium.com/) and soon on KnowledgeHut upGrad!
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
 
 <br>
@@ -69,7 +76,7 @@ Interpreted Language -
 Special-purpose Language -
 
 5. Golang (Go)
-  - [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) - Social Media backend API Implementation in Go standard Library to avoid attacks like Weak Randomness
+  - [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) - Social Media backend API Implementation in Go standard Library to avoid attacks like Weak Randomness, Submitted to
 
 6. Assembly (ASM)
   - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryprion/ Decryption for 4 letters
