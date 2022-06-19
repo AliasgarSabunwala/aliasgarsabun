@@ -48,11 +48,11 @@ Strong understanding of -
 - Intrusion Prevention System (IPS)
 
 Certification -
-- Practical Ethical Hacking - The Complete Course, TCM Security
+- Practical Ethical Hacking, TCM Security
 - Network Certification - [The Bytes and Bytes of Computer Networking by Google, Coursera](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
 
 Scholarship -
-- CEH (Pratical) V11 Exam Scholarship
+- CEH (Pratical) v11 Exam Scholarship
 <br>
 
 <p align="center"> <b> Software Development </b> </p>  
@@ -76,7 +76,7 @@ Interpreted Language -
 Special-purpose Language -
 
 5. Golang (Go)
-  - [GoAPI](https://github.com/AliasgarSabunwala/GoAPI) - Social Media backend API Implementation in Go standard Library to avoid attacks like Weak Randomness, Submitted to
+  - [BackendAPI](BackendAPI) - Instagram backend API Implementation in Go standard Library to avoid attacks like Weak Randomness. Submitted to Appointy, an online appointment and management company
 
 6. Assembly (ASM)
   - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryprion/ Decryption for 4 letters
@@ -93,18 +93,30 @@ Hands-on experience with -
 
 <p align="center"> <b> Cloud Technologies </b> </p> 
 
-I have knowledge on -
-- Azure
-- AWS 
-- Google Cloud
+Hands-on -
+1. Azure
+
+Certificates -
+ 1. Azure Cloud Fundamentals
+ 2. AI
+ 3. Azure Security Technology (AZ-500), etc.
+
+Project -
+- WebPay
+
+2. AWS 
+ Certificate -
+- AWS Essentials by Vimal Diga, world record holder
+
+3. Google Cloud
+
+Project -
+- SecurePay
 
 
 <br>
 <p align="center"> <b> Collaboration Tools </b> </p> 
 
-I have expertise in 
-- GitHub
-- VS Code
 
 <br>
 <p align="center"> <b> Operating Systems (OS) </b> </p>  
