@@ -12,8 +12,18 @@ I'm
 - Open-source Contributor
 - Cyber Security and Digital Forensics Researcher
 - Creator of Cyber Security tools like [Secode](https://github.com/AliasgarSabunwala/Secode) and [NetTracer](https://github.com/AliasgarSabunwala/NetTracer)
-- Catch The Flag (CTF) Player at Try Hack Me King of Hill, and Hack The Box CTF's, etc.
-- Played Indian Army Hackathon CTF 2021, Intrigiti 1337 CTF 2022, and IIT Madras CTF 2022
+
+- Catch The Flag (CTF) Player 
+
+   Playing -
+     - Try Hack Me's King of Hill
+     - Hack The Box CTF's, etc.
+
+   Played - 
+     - Indian Army Hackathon CTF 2021
+     - Intrigiti 1337 CTF 2022
+     - IIT Madras CTF 2022
+
 - [The Indian Army Cyber Security Hackathon 2021 Finalist in CTF Track](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 - Read my Cyber Security and Security Articles at [Medium](https://aliasgarsabunwala.medium.com/) and soon on KnowledgeHut upGrad!
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
