@@ -48,8 +48,12 @@ Strong understanding of -
 - Intrusion Prevention System (IPS)
 
 Certification -
+
+Cyber Security -
 - Practical Ethical Hacking, TCM Security
-- Network Certification - [The Bytes and Bytes of Computer Networking by Google, Coursera](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
+
+Computer Networking -
+ - [The Bytes and Bytes of Computer Networking by Google, Coursera](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
 
 Scholarship -
 - CEH (Pratical) v11 Exam Scholarship
@@ -98,8 +102,10 @@ Hands-on -
 
    Certificates -
     1. Azure Cloud Fundamentals
-    2. AI
-    3. Azure Security Technology (AZ-500), etc.
+    2. Azure (AI-900)
+    3. Azure (AZ-204)
+    4. Azure (AZ-900)
+    5. Azure Security Technology (AZ-500)
 
    Project -
     - WebPay
