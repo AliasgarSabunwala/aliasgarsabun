@@ -10,7 +10,7 @@ I'm
 - Problem Solver
 - Cyber Security and Digital Forensics Practitioner at Try Hack Me and Hack The Box
 - Open-source Contributor
-- Cyber Security Researcher
+- Cyber Security and Digital Forensics Researcher
 - Creator of Cyber Security tools like [Secode](https://github.com/AliasgarSabunwala/Secode) and [NetTracer](https://github.com/AliasgarSabunwala/NetTracer)
 - Catch The Flag (CTF) Player at Try Hack Me King of Hill, and Hack The Box CTF's, etc.
 - Played Indian Army Hackathon CTF 2021, Intrigiti 1337 CTF 2022, and IIT Madras CTF 2022
@@ -96,39 +96,45 @@ Hands-on experience with -
 Hands-on -
 1. Azure
 
-Certificates -
- 1. Azure Cloud Fundamentals
- 2. AI
- 3. Azure Security Technology (AZ-500), etc.
+   Certificates -
+    1. Azure Cloud Fundamentals
+    2. AI
+    3. Azure Security Technology (AZ-500), etc.
 
-Project -
-- WebPay
+   Project -
+    - WebPay
 
 2. AWS 
- Certificate -
-- AWS Essentials by Vimal Diga, world record holder
+
+   Certificate -
+    - AWS Essentials by Vimal Diga, world record holder
 
 3. Google Cloud
 
-Project -
-- SecurePay
+    Project -
+     - SecurePay
 
 
 <br>
 <p align="center"> <b> Collaboration Tools </b> </p> 
-
+ 
+- git, GitHub
+ - IDE's like Visual Studio
+ - Text Editor like VS Code or Sublime Text or Atom
 
 <br>
 <p align="center"> <b> Operating Systems (OS) </b> </p>  
 
-I have System administrator expertise in 
-- Linux
+System administrator expertise on
+- Linux including Kali Linux and Parrot Security OS
 - Windows
+- Chrome OS
+
 - Linux Certification - [Projects in Linux - Learn Linux Doing Real World Projects, Eduonix](https://www.eduonix.com/certificate/a7b154d9ad)
 
 <br>
 <p align="center"> <b> Virtualization </b> </p>
 
-I have Knowledge of Virtualization software's like -
+Expertise in Virtualization software's like -
 - VMWare
 - VirtualBox
