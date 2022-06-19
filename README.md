@@ -57,7 +57,7 @@ Strong understanding of -
 - Intrusion Detection System (IDS)
 - Intrusion Prevention System (IPS)
 
-Certification -
+Certifications -
 
 Cyber Security -
 - Practical Ethical Hacking, TCM Security
@@ -96,14 +96,15 @@ Special-purpose Language -
   - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryprion/ Decryption for 4 letters
 
 <br>
-<p align="center"> <b> Database </b> </p> 
+<p align="center"> <b> Databases </b> </p> 
 
 Hands-on experience with -
-- MySQL
-- MySQL Server
+- MySQL, used in LibMag
+- MySQL Server, used in Identity Management
 - Oracle SQL
 - PL/SQL 
-- MongoDB
+- MongoDB, used in [BackendAPI](BackendAPI) - Instagram backend API Implementation in Go standard Library to avoid attacks like Weak Randomness. Submitted to Appointy, an online appointment and management company
+- Firebase, used in SecurePay
 
 <p align="center"> <b> Cloud Technologies </b> </p> 
 
