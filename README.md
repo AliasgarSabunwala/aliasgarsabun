@@ -79,7 +79,7 @@ General-purpose Language -
   - [eForum](https://github.com/AliasgarSabunwala/eForum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
 
 3. Java
-  - Identity Management, Submitted to Geonix, an Australian Company, sponser of 4 days Java Workshop on Nov 2019 in VIT Bhopal Campus
+  - [Identify](https://github.com/AliasgarSabunwala/Identify) - Identity Management, Submitted to Geonix, an Australian Company, sponser of 4 days Java Workshop on Nov 2019 in VIT Bhopal Campus
 
 Interpreted Language - 
 
@@ -100,11 +100,11 @@ Special-purpose Language -
 
 Hands-on experience with -
 - MySQL, used in [LibMag](https://github.com/AliasgarSabunwala/LibMag)
-- MySQL Server, used in Identity Management
+- MySQL Server, used in [Identify](https://github.com/AliasgarSabunwala/Identify)
+- MongoDB, used in [BackendAPI](BackendAPI)
+- Firebase, used in [SecurePay](https://github.com/AliasgarSabunwala/SecurePay)
 - Oracle SQL
 - PL/SQL 
-- MongoDB, used in [BackendAPI](BackendAPI)
-- Firebase, used in SecurePay
 
 <p align="center"> <b> Cloud Technologies </b> </p> 
 
@@ -119,7 +119,7 @@ Hands-on -
     5. Azure Security Technology (AZ-500)
 
    Project -
-    - WebPay
+    - [WebPay](https://github.com/AliasgarSabunwala/WebPay)
 
 2. AWS 
 
@@ -129,7 +129,7 @@ Hands-on -
 3. Google Cloud
 
     Project -
-     - SecurePay
+     - [SecurePay](https://github.com/AliasgarSabunwala/SecurePay)
 
 
 <br>
