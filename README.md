@@ -106,17 +106,26 @@ Hands-on experience with -
 - Oracle SQL
 - PL/SQL 
 
+<p align="center"> <b> Data Analytics </b> </p> 
+
+Course -
+ 1. Summer Analytics 2022 by Consulting & Analytics Club, IIT Guwahati
+
+Certificates -
+ 1. Microsoft Power BI Data Analyst (PL-300)
+    
 <p align="center"> <b> Cloud Technologies </b> </p> 
 
 Hands-on -
 1. Azure
 
    Certificates -
-    1. Azure Cloud Fundamentals
-    2. Azure (AI-900)
-    3. Azure (AZ-204)
-    4. Azure (AZ-900)
-    5. Azure Security Technology (AZ-500)
+    1. Azure Fundamentals (AZ-900)
+    2. Azure Administrator (AZ-104)
+    3. Azure Developer (AZ-204)
+    4. Azure Security Technologies (AZ-500)
+    5. Azure AI Fundamentals (AI-900)
+    6. Azure AI Engineer Associate (AI-102)
 
    Project -
     - [WebPay](https://github.com/AliasgarSabunwala/WebPay)
@@ -136,6 +145,10 @@ Hands-on -
 <p align="center"> <b> Collaboration Tools </b> </p> 
  
 - git, GitHub
+
+Certificates -
+    1. Github
+    
  - IDE's like Visual Studio
  - Text Editor like VS Code or Sublime Text or Atom
 
