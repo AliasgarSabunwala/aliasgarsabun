@@ -18,7 +18,7 @@ I'm
      - Hack The Box CTF's, etc.
 
    Played - 
-     - Indian Army Hackathon CTF 2021
+     - The Indian Army Cyber Security Hackathon 2021
      - Intrigiti 1337 CTF 2022
      - IIT Madras CTF 2022
 
