@@ -1,5 +1,3 @@
-
-
 # Securing, Coding, Designing, Writing and Chilling! This is me in the nutshell.
 
 👋🏻 Hey, Ali here
@@ -25,7 +23,7 @@ I'm
      - IIT Madras CTF 2022
 
 - [The Indian Army Cyber Security Hackathon 2021 Finalist in CTF Track](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
-- Read my Cyber Security and Security Articles at [Medium](https://aliasgarsabunwala.medium.com/) and soon on KnowledgeHut upGrad!
+- Read my Cybersecurity and Digital Forensics Articles at [Medium](https://aliasgarsabunwala.medium.com/) and coming soon on upGrad KnowledgeHut Blog!
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
 
 <br>
@@ -41,7 +39,8 @@ Hands-on experience -
   - OWASP ZAP
   - Wireshark 
   - OpenVAS
-  - Lynix, etc. tools in Parrot Security OS and Kali Linux
+  - Lynix, 
+  etc. tools in Parrot Security OS and Kali Linux
 
   - Reverse Engineering tool's -
       - OllyDBG
@@ -133,7 +132,7 @@ Hands-on -
 2. AWS 
 
    Certificate -
-    - AWS Essentials by Vimal Diga, world record holder
+    - Industry Relevant AWS Training Program by Vimal Diga, world record holder
 
 3. Google Cloud
 
@@ -146,8 +145,9 @@ Hands-on -
  
 - git, GitHub
 
-Certificates -
-    1. Github
+
+Certificate -
+         1. Github
     
  - IDE's like Visual Studio
  - Text Editor like VS Code or Sublime Text or Atom
