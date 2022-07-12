@@ -79,7 +79,7 @@ General-purpose Language -
   - [eForum](https://github.com/AliasgarSabunwala/eForum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
 
 3. Java
-  - [Identify](https://github.com/AliasgarSabunwala/Identify) - Identity Management, Submitted to Geonix, an Australian Company, sponser of 4 day's Java Workshop on Nov 2019 at VIT Bhopal Campus
+  - [Identify](https://github.com/AliasgarSabunwala/Identify) - Identity Management, Submitted to Geonix, an Australian Company, sponsor of 4 day's Java Workshop in Nov 2019 at VIT Bhopal Campus
 
 Interpreted Language - 
 
