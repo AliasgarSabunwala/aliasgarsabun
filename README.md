@@ -1,4 +1,4 @@
-# Securing, Coding, Designing, Writing and Chilling! This is me in the nutshell.
+# Extroverted person. Securing, Coding, Designing, Writing, Football and Chilling! This is me in the nutshell.
 
 👋🏻 Hey, Ali here
 
@@ -23,7 +23,7 @@ I'm
      - Intrigiti 1337UP LIVE CTF at [here](https://ctftime.org/event/1597), 548th Rank
      - IIT Madras CTF 2022
 
-- The Indian Army Cyber Security Hackathon 2021 Finalist in the CTF Track certification [here](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
+- The Indian Army Cyber Security Hackathon 2021 Finalist in the CTF Track, certification [here](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 - Read my Cybersecurity and Digital Forensics Articles at [Medium](https://aliasgarsabunwala.medium.com/) and coming soon on upGrad KnowledgeHut Blog!
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
 
