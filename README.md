@@ -11,7 +11,7 @@ I'm
 - Cyber Security and Digital Forensics Researcher
 - Creator of Cyber Security tools like [Secode](https://github.com/AliasgarSabunwala/Secode) and [NetTracer](https://github.com/AliasgarSabunwala/NetTracer)
 
-- Catch The Flag (CTF) Player 
+- Capture The Flag (CTF) Player 
 
    Playing -
      - Try Hack Me's King of Hill
