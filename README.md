@@ -19,11 +19,11 @@ I'm
 
    Played - 
      - vsCTF 2022 at [here](https://ctf.viewsource.me/), 461th Rank
-     - The Indian Army Cyber Security Hackathon 2021, Finalist in CTF track
+     - The Indian Army Cyber Security Hackathon 2021, Finalist in the CTF track
      - Intrigiti 1337UP LIVE CTF at [here](https://ctftime.org/event/1597), 548th Rank
      - IIT Madras CTF 2022
 
-- [The Indian Army Cyber Security Hackathon 2021 Finalist in CTF Track](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
+- The Indian Army Cyber Security Hackathon 2021 Finalist in the CTF Track certification [here](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 - Read my Cybersecurity and Digital Forensics Articles at [Medium](https://aliasgarsabunwala.medium.com/) and coming soon on upGrad KnowledgeHut Blog!
 - Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
 
@@ -66,7 +66,7 @@ Computer Networking -
  - [The Bytes and Bytes of Computer Networking by Google, Coursera](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
 
 Scholarship -
-- CEH (Pratical) v11 Exam Scholarship
+- CEH(Pratical) Exam Scholarship
 <br>
 
 <p align="center"> <b> Software Development </b> </p>  
@@ -79,7 +79,7 @@ General-purpose Language -
   - [eForum](https://github.com/AliasgarSabunwala/eForum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
 
 3. Java
-  - [Identify](https://github.com/AliasgarSabunwala/Identify) - Identity Management, Submitted to Geonix, an Australian Company, sponser of 4 days Java Workshop on Nov 2019 in VIT Bhopal Campus
+  - [Identify](https://github.com/AliasgarSabunwala/Identify) - Identity Management, Submitted to Geonix, an Australian Company, sponser of 4 day's Java Workshop on Nov 2019 at VIT Bhopal Campus
 
 Interpreted Language - 
 
