@@ -18,10 +18,10 @@ I'm
      - Hack The Box CTF's, etc.
 
    Played - 
-     - vsCTF 2022 at [here](https://ctf.viewsource.me/), 461th Rank
-     - The Indian Army Cyber Security Hackathon 2021, Finalist in the CTF track
-     - Intrigiti 1337UP LIVE CTF at [here](https://ctftime.org/event/1597), 548th Rank
-     - IIT Madras CTF 2022
+     - vsCTF 2022 at [here](https://ctf.viewsource.me/), 461th Rank [9-10 Jul 22]
+     - Intrigiti 1337UP LIVE CTF at [here](https://ctftime.org/event/1597), 548th Rank [11-12 Mar 22]
+     - IIT Madras CTF 2022 at [here](https://unstop.com/hackathon/capture-the-flag-shaastra-2022-indian-institute-of-technology-iit-madras-244858), [15 Jan 22]
+     - The Indian Army Cyber Security Hackathon 2021, Finalist in the CTF track [3-5 Jan 22]
 
 - The Indian Army Cyber Security Hackathon 2021 Finalist in the CTF Track, certification [here](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 - Read my Cybersecurity and Digital Forensics Articles at [Medium](https://aliasgarsabunwala.medium.com/) and coming soon on upGrad KnowledgeHut Blog!
