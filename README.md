@@ -1,6 +1,4 @@
-# Extroverted person. Securing, Coding, Designing, Writing, Football and Chilling! This is me in the nutshell.
-
-👋🏻 Hey, Ali here
+# I'm Ali Asgar (pronounced: asghar). I have always been fasicinated by technology, which has led me to persue computer science in my high school and in my bachelors B Tech in CSE with spec. in cybersecurity and digital forensics. Securing the code I write or system's that we work on and managing people are my core skills. Not just that, these core competences led me to explore DevOps and SecDevOps which helped me combine my skills of computer science and management. Being born at world's most romantic place, Udaipur has ingrained in me skills of outing, enjoying going to places, etc. I also love to sing, dance, swim, garden and I play football, basketball and Chess, in which I'm at Global Rank 34 at chess.com. I also love designing and love great and detailed ui/ux. I have made my projects around the real world problems to solve those with sustainability without creating another problem. and I write to spread my learnings with people which can be beneficial to them. 
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
 
