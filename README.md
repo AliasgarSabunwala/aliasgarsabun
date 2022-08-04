@@ -7,7 +7,7 @@ I'm
 - Cyber Security and Digital Forensics Practitioner at Try Hack Me and Hack The Box
 - Open-source Contributor
 - Cyber Security and Digital Forensics Researcher
-- Creator of Cyber Security tools like [Secode](https://github.com/AliasgarSabunwala/Secode) and [NetTracer](https://github.com/AliasgarSabunwala/NetTracer)
+- Creator of Cyber Security tools like [Trace](https://github.com/AliasgarSabunwala/trace) [Currently private], [Secode](https://github.com/AliasgarSabunwala/Secode) and [NetTracer](https://github.com/AliasgarSabunwala/NetTracer)
 
 - Capture The Flag (CTF) Player 
 
