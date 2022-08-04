@@ -46,7 +46,8 @@ Hands-on experience -
       - IDA PRO, etc.
 
 My Cyber Security Tools/ Program's -
-- [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code
+- [Trace](https://github.com/AliasgarSabunwala/trace) [Currently private]
+- [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code []
 - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
 
 Strong understanding of -
@@ -64,26 +65,28 @@ Computer Networking -
  - [The Bytes and Bytes of Computer Networking by Google, Coursera](https://www.coursera.org/account/accomplishments/certificate/8YREVN79YWAS)
 
 Scholarship -
-- CEH(Pratical) Exam Scholarship
+- CEH (Pratical) Exam Scholarship
 <br>
 
 <p align="center"> <b> Software Development </b> </p>  
 
+[Engage](https://github.com/aliasgarsabunwala/engage) - An SaaS product, engagement platform widely used across companies [Currently private till 5 Aug]
+
 General-purpose Language -
 1. C++ (C++ 11)
-  - [LibMag](https://github.com/AliasgarSabunwala/LibMag) - Library Management written in C++ and MySQL
+  - [LibMag](https://github.com/AliasgarSabunwala/Libmag) - Library Management written in C++ and MySQL
 
 2. C#
-  - [eForum](https://github.com/AliasgarSabunwala/eForum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
+  - [eForum](https://github.com/aliasgarsabunwala/eforum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
 
 3. Java
-  - [Identify](https://github.com/AliasgarSabunwala/Identify) - Identity Management, Submitted to Geonix, an Australian Company, sponsor of 4 day's Java Workshop in Nov 2019 at VIT Bhopal Campus
+  - [Identify](https://github.com/aliasgarsabunwala/identify) - Identity Management, Submitted to Geonix, an Australian Company, sponsor of 4 day's Java Workshop in Nov 2019 at VIT Bhopal Campus
 
 Interpreted Language - 
 
 4. Python (Py3)
-  - [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer written in Python for scanning insecure functions in a given C++ code
-  - [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands
+  - [Secode](https://github.com/aliasgarsabunwala/secode) - Static Code Analyzer written in Python for scanning insecure functions in a given C++ code
+  - [NetTracer](https://github.com/aliasgarsabunwala/netTracer) - Tracing Any website or IP using OS native commands
 
 Special-purpose Language -
 
@@ -91,7 +94,7 @@ Special-purpose Language -
   - [BackendAPI](BackendAPI) - Instagram backend API Implementation in Go standard Library to avoid attacks like Weak Randomness. Submitted to Appointy, an online appointment and management company
 
 6. Assembly (ASM)
-  - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryprion/ Decryption for 4 letters
+  - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryption/ Decryption for 4 letters
 
 <br>
 <p align="center"> <b> Databases </b> </p> 
@@ -126,7 +129,7 @@ Hands-on -
     6. Azure AI Engineer Associate (AI-102)
 
    Project -
-    - [WebPay](https://github.com/AliasgarSabunwala/WebPay)
+    - [WebPay](https://github.com/AliasgarSabunwala/WebPay) [Currently development in progress]
 
 2. AWS 
 
@@ -136,7 +139,7 @@ Hands-on -
 3. Google Cloud
 
     Project -
-     - [SecurePay](https://github.com/AliasgarSabunwala/SecurePay)
+     - [SecurePay](https://github.com/AliasgarSabunwala/SecurePay) [Currently private]
 
 
 <br>
