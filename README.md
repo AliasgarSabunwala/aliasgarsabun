@@ -102,8 +102,8 @@ Special-purpose Language -
 Hands-on experience with -
 - MySQL, used in [LibMag](https://github.com/AliasgarSabunwala/LibMag)
 - MySQL Server, used in [Identify](https://github.com/AliasgarSabunwala/Identify)
-- MongoDB, used in [BackendAPI](BackendAPI) and [Engage](https://github.com/AliasgarSabunwala/engage)
-- Firebase, used in [SecurePay](https://github.com/AliasgarSabunwala/SecurePay)
+- MongoDB, used in [BackendAPI](BackendAPI) and [Engage](https://github.com/AliasgarSabunwala/engage) [Currently private till 5 Aug]
+- Firebase, used in [SecurePay](https://github.com/AliasgarSabunwala/SecurePay) [Currently private]
 - Oracle SQL
 - PL/SQL 
 
