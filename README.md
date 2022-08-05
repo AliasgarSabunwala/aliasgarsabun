@@ -26,7 +26,7 @@ I'm
 <br>
 
  📖 A R T I C L E ' S
-- Read my Cybersecurity, Digital Forensics, Blockchain and Quantum Cryptography Articles at [Medium](https://aliasgarsabunwala.medium.com/)
+- Read my Cybersecurity, Digital Forensics, Blockchain and Quantum Cryptography Articles at [Medium](https://aliasgarsabunwala.medium.com/) and to get my article's at your mailbox click [here](https://aliasgarsabunwala.medium.com/subscribe)
 - Read my Cybersecurity Articles at upGrad KnowledgeHut Blog! [coming soon]
 
 <br>
