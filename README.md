@@ -22,12 +22,22 @@ I'm
      - The Indian Army Cyber Security Hackathon 2021, Finalist in the CTF track [3-5 Jan 22]
 
 - The Indian Army Cyber Security Hackathon 2021 Finalist in the CTF Track, certification [here](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
-- Read my Cybersecurity and Digital Forensics Articles at [Medium](https://aliasgarsabunwala.medium.com/) and coming soon on upGrad KnowledgeHut Blog!
-- Connect with me on [Linkedin](https://linkedin.com/in/AliasgarSabunwala/)       
+
+<br>
+
+ 📖 A R T I C L E ' S
+- Read my Cybersecurity, Digital Forensics, Blockchain and Quantum Cryptography Articles at [Medium](https://aliasgarsabunwala.medium.com/)
+- Read my Cybersecurity Articles at upGrad KnowledgeHut Blog! [coming soon]
+
+<br>
+
+S O C I A L I Z E
+- Follow or sent an personalized invite to connect with me on [Linkedin](https://linkedin.com/in/aliasgarsabunwala)
+- See my tweets on human perspective and cybersecurity at [Twitter](https://twitter.com/aliasgarsabun)       
 
 <br>
  
-<p align="center"> <b> Cyber Security </b> </p>
+<p align="center"> <b> C Y B E R S E C U R I T Y </b> </p>
 
 Hands-on experience -
   - Splunk (Ongoing learning to achieve excellency)
@@ -70,7 +80,7 @@ Scholarship -
 
 <p align="center"> <b> Software Development </b> </p>  
 
-[Engage](https://github.com/aliasgarsabunwala/engage) - An SaaS product, engagement platform widely used across companies. Submitted to [SchbangQ](https://www.schbang.com/), an IT company at heart with focus on solving IT problems with a people-centric approach by [Qgroup](https://q.group/). [Currently private till 5 Aug]
+- [Engage](https://github.com/aliasgarsabunwala/engage) - An SaaS product, engagement platform widely used across companies. Submitted to [SchbangQ](https://www.schbang.com/), an IT company at heart with focus on solving IT problems with a people-centric approach by [Qgroup](https://q.group/). [Currently private till 5 Aug]
 
 General-purpose Language -
 1. C++ (C++ 11)
