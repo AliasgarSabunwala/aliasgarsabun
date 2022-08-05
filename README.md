@@ -70,7 +70,7 @@ Scholarship -
 
 <p align="center"> <b> Software Development </b> </p>  
 
-[Engage](https://github.com/aliasgarsabunwala/engage) - An SaaS product, engagement platform widely used across companies [Currently private till 5 Aug]
+[Engage](https://github.com/aliasgarsabunwala/engage) - An SaaS product, engagement platform widely used across companies. Submitted to [SchbangQ](https://www.schbang.com/), an IT company at heart with focus on solving IT problems with a people-centric approach by [Qgroup](https://q.group/). [Currently private till 5 Aug]
 
 General-purpose Language -
 1. C++ (C++ 11)
