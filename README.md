@@ -1,4 +1,4 @@
-# I'm Ali Asgar (pronounced: asghar). I have always been fascinated by technology, which has led me to pursue computer science in my high school and in my bachelors B. Tech in Computer Science and Engineering with Specialization in  Cybersecurity and Digital Forensics. Securing the code I write or system's that we work on and managing people are my core skills. Not just that, these core competences led me to explore Product Management, DevOps and SecDevOps which helped me combine my skills of computer science and management. Being born at world's most romantic place, Udaipur has ingrained in me skills of outing, enjoying going to places, etc. I also love to sing, dance, swim, garden and I play football, basketball and Chess, in which I'm at Global Rank 34 at chess.com. I also love designing and love great and detailed ui/ux. I have made my projects around the real world problems to solve those with sustainability without creating another problem. and I write to spread my learnings with people which can be beneficial to them. 
+# I'm Ali Asgar (pronounced: asghar). I have always been fascinated by technology, which has led me to pursue computer science in my high school and in my bachelors B. Tech in Computer Science and Engineering with Specialization in  Cybersecurity and Digital Forensics. Securing the code I write or system's that we work on and managing people are my core skills. Not just that, these core competences led me to explore Security Engineering, Analyst or Consulting, Forensics, DFIR, Product Management, DevOps and SecDevOps which helped me combine my skills of computer science and management. Being born in the world's most romantic place, Udaipur has ingrained in me skills of outing, enjoying going to places, etc. I also love to sing, dance, swim, garden and I play football, basketball and Chess, in which I'm at Global Rank 34 at chess.com. I also love designing and love great and detailed ui/ux. I have made my projects around real world problems to solve those with sustainability without creating another problem. and I write to spread my learnings with people which can be beneficial to them. 
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
 
@@ -16,10 +16,10 @@ I'm
      - Hack The Box CTF's, etc.
 
    Played - 
-     - vsCTF 2022 at [here](https://ctf.viewsource.me/), 461th Rank [9-10 Jul 22]
-     - Intrigiti 1337UP LIVE CTF at [here](https://ctftime.org/event/1597), 548th Rank [11-12 Mar 22]
-     - IIT Madras CTF 2022 at [here](https://unstop.com/hackathon/capture-the-flag-shaastra-2022-indian-institute-of-technology-iit-madras-244858), [15 Jan 22]
-     - The Indian Army Cyber Security Hackathon 2021, Finalist in the CTF track [3-5 Jan 22]
+     - Under Top 400, vsCTF 2022 at [here](https://ctf.viewsource.me/), 461th Rank [9-10 Jul 22]
+     - Under Top 500, Intrigiti 1337UP LIVE CTF at [here](https://ctftime.org/event/1597), 548th Rank [11-12 Mar 22]
+     - Under Top 400, IIT Madras CTF 2022 at [here](https://unstop.com/hackathon/capture-the-flag-shaastra-2022-indian-institute-of-technology-iit-madras-244858), [15 Jan 22]
+     - Under Top 10, The Indian Army Cyber Security Hackathon 2021, Finalist in the CTF track [3-5 Jan 22]
 
 - The Indian Army Cyber Security Hackathon 2021 Finalist in the CTF Track, certification [here](https://www.linkedin.com/posts/aliasgarsabunwala_cyberdefense-cyberresilience-activity-6903385834830323712-PSXT)
 
