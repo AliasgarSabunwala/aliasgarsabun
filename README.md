@@ -78,7 +78,7 @@ Scholarship -
 - CEH (Pratical) Exam Scholarship
 <br>
 
-<p align="center"> <b> Software Development </b> </p>  
+<p align="center"> <b> S O F T W A R E   D E V E L O P M E N T </b> </p>  
 
 - [Engage](https://github.com/aliasgarsabunwala/engage) - An SaaS product, engagement platform widely used across companies. Submitted to [SchbangQ](https://www.schbang.com/), an IT company at heart with focus on solving IT problems with a people-centric approach by [Qgroup](https://q.group/). [Currently private till 5 Aug]
 
@@ -107,7 +107,7 @@ Special-purpose Language -
   - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryption/ Decryption for 4 letters
 
 <br>
-<p align="center"> <b> Databases </b> </p> 
+<p align="center"> <b> D A T A B A S E  </b> </p> 
 
 Hands-on experience with -
 - MySQL, used in [LibMag](https://github.com/AliasgarSabunwala/LibMag)
@@ -117,7 +117,7 @@ Hands-on experience with -
 - Oracle SQL
 - PL/SQL 
 
-<p align="center"> <b> Data Analytics </b> </p> 
+<p align="center"> <b> D A T A  A N A L Y T I C S </b> </p> 
 
 Course -
  1. Summer Analytics 2022 by Consulting & Analytics Club, IIT Guwahati
@@ -125,7 +125,7 @@ Course -
 Certificates -
  1. Microsoft Power BI Data Analyst (PL-300)
     
-<p align="center"> <b> Cloud Technologies </b> </p> 
+<p align="center"> <b> C L O U D  T E C H N O L O G I E S </b> </p> 
 
 Hands-on -
 1. Azure
@@ -153,7 +153,7 @@ Hands-on -
 
 
 <br>
-<p align="center"> <b> Collaboration Tools </b> </p> 
+<p align="center"> <b> C O L L A B R A T I O N  T O O L ' S </b> </p> 
  
 - git, GitHub
 
@@ -165,7 +165,7 @@ Certificate -
  - Text Editor like VS Code or Sublime Text or Atom
 
 <br>
-<p align="center"> <b> Operating Systems (OS) </b> </p>  
+<p align="center"> <b> O P E R A T I N G  S Y S T E M (OS) </b> </p>  
 
 System administrator expertise on
 - Linux including Kali Linux and Parrot Security OS
@@ -176,7 +176,7 @@ Linux Certification
 - [Projects in Linux - Learn Linux Doing Real World Projects, Eduonix](https://www.eduonix.com/certificate/a7b154d9ad)
 
 <br>
-<p align="center"> <b> Virtualization </b> </p>
+<p align="center"> <b> V I R T U A L I Z A T I O N </b> </p>
 
 Expertise in Virtualization software's like -
 - VMWare
