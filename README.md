@@ -1,6 +1,7 @@
-# I'm Aliasgar (pronounced: asghar) Abid Sabunwala. I have always been fascinated by technology, which has led me to pursue computer science in my high school and in my bachelors B. Tech in Computer Science and Engineering with Specialization In Cybersecurity and Digital Forensics. Securing the code I write or system's that we work on and managing people are my core skills. That had led me to participate in various coding hackathon and CP platform, from Google Challenges to Reply Coding Challenge, at which we participated in 2019 for the first time where we solved the problem statement using basic Data Structures. I was able to pull out due to strong fundamentals coding, Data Structures and Programming. Not just that, these core competences led me to explore  Software Engineering, Security Engineering, Analyst or Consulting, Forensics, DFIR, Product Management, DevOps and SecDevOps which helped me combine my skills of computer science and management. Being born in the world's most romantic place, Udaipur has ingrained in me skills of outing, enjoying going to places, etc. I also love to sing, dance, swim, garden and I play football, basketball and Chess, in which I'm at Global Rank 13 at chess.com. I also love designing and love great and detailed ui/ux. I have made my projects around real world problems to solve those with sustainability without creating another problem. and I write to spread my learnings with people which can be beneficial to them. 
+# I'm Aliasgar (pronounced: asghar) Abid Sabunwala. I have always been fascinated by Technology, which has led me to pursue Computer Science in my High School and in my Bachelor B. Tech in Computer Science and Engineering with Specialization In Cyber Security and Digital Forensics. Securing the code we write or system's that we work on and managing people are my core skills. That has led me to participate in various coding hackathons and CP platforms, from Google Challenges to Reply Coding Challenge, at which we participated in 2019 for the first time where we solved the problem statement using basic Data Structures. I was able to pull out due to strong fundamentals coding, Data Structures and Programming. Not just that, these core competences led me to explore  Software Engineering, Security Engineering, Analyst or Consulting, Forensics, DFIR, Product Management, DevOps and SecDevOps which helped me combine my skills of computer science and management. Being born in the world's most romantic place, Udaipur has ingrained in me skills of outing, enjoying going to places, etc. I also love to sing, dance, swim, garden and I play football, basketball and Chess, in which I'm at Global Rank 13 at chess.com. I also love designing and love great and detailed UI/UX. I have made my projects around real world problems to solve those with sustainability without creating another problem. and I write to spread my learnings with people which can be beneficial to them. 
 
-# He's a 4th Year Cybersecurity and Digital Forensics student at VIT Bhopal who has worked with Indian State Governments through internships recently with Gurugram and Haryana Police and earlier with MP Police. He also writes for upGrad KnowledgeHut Cybersecurity Blog. He practices cybersecurity and Dynamic Coding on platforms like Try hack me, Hack the box, Codeforces and Codechef. When he's not doing those you can see him with friends or playing games.
+# He's a 4th Year Cybersecurity and Digital Forensics student at VIT Bhopal Campus who has worked with Indian State Governments through internships recently with Gurugram and Haryana Police and earlier with MP Police. He also writes for upGrad KnowledgeHut Cybersecurity Blog. He practices cybersecurity and Dynamic Coding on platforms like Try hack me, Hack the box, Codeforces and Codechef. When he's not doing those you can see him with friends or playing games.
+
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AliasgarSabunwala&color=blueviolet&label=PROFILE+VIEWS) 
 
@@ -9,7 +10,7 @@ I'm
 - Cyber Security and Digital Forensics Practitioner at Try Hack Me and Hack The Box
 - Open-source Contributor
 - Cyber Security and Digital Forensics Researcher
-- Creator of Cyber Security tools like [Trace](https://github.com/aliasgarabidsabunwala/trace) [Currently private], [Secode](https://github.com/aliasgarabidsabunwala/Secode) and [NetTracer](https://github.com/aliasgarabidsabunwala/NetTracer)
+- Creator of many Cyber Security tools like [Trace](https://github.com/aliasgarabidsabunwala/trace) [Currently private], [Secode](https://github.com/aliasgarabidsabunwala/Secode) and [NetTracer](https://github.com/aliasgarabidsabunwala/NetTracer)
 
 - Capture The Flag (CTF) Player 
 
@@ -29,7 +30,7 @@ I'm
 
  📖 A R T I C L E ' S
 - Read my Cybersecurity, Digital Forensics, Blockchain and Quantum Cryptography Articles at [Medium](https://aliasgarabidsabunwala.medium.com/) and to get my article's at your mailbox click [here](https://aliasgarsabunwala.medium.com/subscribe)
-- Read my Cybersecurity Articles at upGrad KnowledgeHut Blog! [Ethical Hacking vs. Software Engineering - What's the Difference? By Ali Asgar], (https://knowledgehut.com/blog/security/ethical-hacking-vs-software-engineering)
+- Read my Cybersecurity Articles at upGrad KnowledgeHut Blog! [Ethical Hacking vs. Software Engineering - What's the Difference? By Ali Asgar](https://knowledgehut.com/blog/security/ethical-hacking-vs-software-engineering)
 
 <br>
 
