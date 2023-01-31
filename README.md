@@ -9,7 +9,7 @@ I'm
 - Cyber Security and Digital Forensics Practitioner at Try Hack Me and Hack The Box
 - Open-source Contributor
 - Cyber Security and Digital Forensics Researcher
-- Creator of Cyber Security tools like [Trace](https://github.com/AliasgarSabunwala/trace) [Currently private], [Secode](https://github.com/AliasgarSabunwala/Secode) and [NetTracer](https://github.com/AliasgarSabunwala/NetTracer)
+- Creator of Cyber Security tools like [Trace](https://github.com/aliasgarabidsabunwala/trace) [Currently private], [Secode](https://github.com/aliasgarabidsabunwala/Secode) and [NetTracer](https://github.com/aliasgarabidsabunwala/NetTracer)
 
 - Capture The Flag (CTF) Player 
 
@@ -28,14 +28,14 @@ I'm
 <br>
 
  📖 A R T I C L E ' S
-- Read my Cybersecurity, Digital Forensics, Blockchain and Quantum Cryptography Articles at [Medium](https://aliasgarsabunwala.medium.com/) and to get my article's at your mailbox click [here](https://aliasgarsabunwala.medium.com/subscribe)
-- Read my Cybersecurity Articles at upGrad KnowledgeHut Blog! [coming soon]
+- Read my Cybersecurity, Digital Forensics, Blockchain and Quantum Cryptography Articles at [Medium](https://aliasgarabidsabunwala.medium.com/) and to get my article's at your mailbox click [here](https://aliasgarsabunwala.medium.com/subscribe)
+- Read my Cybersecurity Articles at upGrad KnowledgeHut Blog! [Ethical Hacking vs. Software Engineering - What's the Difference? By Ali Asgar], (https://knowledgehut.com/blog/security/ethical-hacking-vs-software-engineering)
 
 <br>
 
 S O C I A L I Z E
-- Follow or sent an personalized invite to connect with me on [Linkedin](https://linkedin.com/in/aliasgarsabunwala)
-- See my tweets on human perspective and cybersecurity at [Twitter](https://twitter.com/aliasgarsabun)       
+- Follow or sent an personalized invite to connect with me on [Linkedin](https://linkedin.com/in/aliasgarabidsabunwala)
+- See my tweets on human perspective and cybersecurity at [Twitter](https://twitter.com/aliasgarabidsab)       
 
 <br>
  
@@ -58,9 +58,9 @@ Hands-on experience -
       - IDA PRO, etc.
 
 My Cyber Security Tools/ Program's -
-- [Trace](https://github.com/AliasgarSabunwala/trace) [Currently private]
-- [Secode](https://github.com/AliasgarSabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code [Currently development in progress]
-- [NetTracer](https://github.com/AliasgarSabunwala/NetTracer) - Tracing Any website or IP using OS native commands [Currently development in progress]
+- [Trace](https://github.com/aliasgarabidsabunwala/trace) [Currently private]
+- [Secode](https://github.com/aliasgarabidsabunwala/Secode) - Static Code Analyzer for scanning insecure functions in a given C++ code [Currently development in progress]
+- [NetTracer](https://github.com/aliasgarabidsabunwala/NetTracer) - Tracing Any website or IP using OS native commands [Currently development in progress]
 
 Strong understanding of -
 - VPN's
@@ -82,17 +82,17 @@ Scholarship -
 
 <p align="center"> <b> S O F T W A R E   D E V E L O P M E N T </b> </p>  
 
-- [Engage](https://github.com/aliasgarsabunwala/engage) - An SaaS product, engagement platform widely used across companies. Submitted to [SchbangQ](https://www.schbang.com/), an IT company at heart with focus on solving IT problems with a people-centric approach by [Qgroup](https://q.group/). [Currently private till 5 Aug]
+- [Engage](https://github.com/aliasgarabidsabunwala/engage) - An SaaS product, engagement platform widely used across companies. Submitted to [SchbangQ](https://www.schbang.com/), an IT company at heart with focus on solving IT problems with a people-centric approach by [Qgroup](https://q.group/). [Currently private till 5 Aug]
 
 General-purpose Language -
 1. C++
-  - [LibMag](https://github.com/AliasgarSabunwala/Libmag) - Library Management written in C++ and MySQL
+  - [librarymanagement](https://github.com/aliasgarabidsabunwala/librarymanagement) - Library Management written in C++ and MySQL
 
 2. C#
-  - [eForum](https://github.com/aliasgarsabunwala/eforum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
+  - [eForum](https://github.com/aliasgarabidsabunwala/eforum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
 
 3. Java
-  - [Identify](https://github.com/aliasgarsabunwala/identify) - Identity Management, Submitted to Geonix, an Australian Company, sponsor of 4 day's Java Workshop in Nov 2019 at VIT Bhopal Campus
+  - [Identify](https://github.com/aliasgarabidsabunwala/identify) - Identity Management, Submitted to Geonix, an Australian Company, sponsor of 4 day's Java Workshop in Nov 2019 at VIT Bhopal Campus
 
 Interpreted Language - 
 
@@ -103,19 +103,19 @@ Interpreted Language -
 Special-purpose Language -
 
 5. Golang (Go)
-  - [BackendAPI](https://github.com/aliasgarsabunwala/BackendAPI) - Instagram backend API Implementation in Go standard Library to avoid attacks like Weak Randomness. Submitted to Appointy, an online appointment and management company
+  - [backendapi](https://github.com/aliasgarsabunwala/backendapi) - Secure Instagram backend API Implementation in Go standard Library to avoid attacks like Weak Randomness. Submitted to Appointy, an online appointment and management company
 
 6. Assembly (ASM)
-  - [ASMCrypt](https://github.com/AliasgarSabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryption/ Decryption for 4 letters
+  - [ASMCrypt](https://github.com/aliasgarabidsabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryption/ Decryption for 4 letters
 
 <br>
 <p align="center"> <b> D A T A B A S E  </b> </p> 
 
 Hands-on experience with -
-- MySQL, used in [LibMag](https://github.com/AliasgarSabunwala/LibMag)
-- MySQL Server, used in [Identify](https://github.com/AliasgarSabunwala/Identify)
-- MongoDB, used in [BackendAPI](BackendAPI) and [Engage](https://github.com/AliasgarSabunwala/engage) [Currently private till 5 Aug]
-- Firebase, used in [SecurePay](https://github.com/AliasgarSabunwala/SecurePay) [Currently private]
+- MySQL, used in [LibMag](https://github.com/aliasgarabidsabunwala/librarymanagement)
+- MySQL Server, used in [Identify](https://github.com/aliasgarabidsabunwala/Identify)
+- MongoDB, used in [BackendAPI](BackendAPI) and [Engage](https://github.com/aliasgarabidsabunwala/engage)
+- Firebase, used in [SecurePay](https://github.com/aliasgarabidsabunwala/SecurePay) [Currently private]
 - Oracle SQL
 - PL/SQL 
 
@@ -141,7 +141,8 @@ Hands-on -
     6. Azure AI Engineer Associate (AI-102)
 
    Project -
-    - [WebPay](https://github.com/AliasgarSabunwala/WebPay) [Currently development in progress]
+    - [WebPay](https://github.com/aliasgarabidsabunwala/WebPay) [Currently development in progress]
+    - [Library On Cloud]([https://github.com/aliasgarabidsabunwala/WebPay](https://github.com/aliasgarabidsabunwala/libraryoncloud))
 
 2. AWS 
 
@@ -157,7 +158,7 @@ Hands-on -
 <br>
 <p align="center"> <b> C O L L A B R A T I O N  T O O L ' S </b> </p> 
  
-- git, GitHub
+- Git, GitHub
 
 
 Certificate -
