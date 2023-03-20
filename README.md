@@ -28,7 +28,8 @@ I'm
 
  📖 A R T I C L E ' S
 - Read my Cybersecurity, Digital Forensics, Blockchain and Quantum Cryptography Articles at [Medium](https://aliasgarabidsabunwala.medium.com/) and to get my article's at your mailbox click [here](https://aliasgarsabunwala.medium.com/subscribe)
-- Read my Cybersecurity Articles at upGrad KnowledgeHut Blog! [Ethical Hacking vs. Software Engineering - What's the Difference? By Ali Asgar](https://knowledgehut.com/blog/security/ethical-hacking-vs-software-engineering)
+- Read my Cybersecurity Articles at upGrad KnowledgeHut Blog [here](https://www.knowledgehut.com/blog/author/ali-asgar)!
+- and Ethical Hacking vs. Software Engineering - What's the Difference? By Ali Asgar [here](https://knowledgehut.com/blog/security/ethical-hacking-vs-software-engineering)
 
 <br>
 
@@ -88,7 +89,7 @@ General-purpose Language -
   - [librarymanagement](https://github.com/aliasgarabidsabunwala/librarymanagement) - Library Management written in C++ and MySQL
 
 2. C#
-  - [eForum](https://github.com/aliasgarabidsabunwala/eforum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
+  - [Cyber Forum](https://github.com/aliasgarabidsabunwala/cyberforum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
 
 3. Java
   - [Identify](https://github.com/aliasgarabidsabunwala/identify) - Identity Management, Submitted to Geonix, an Australian Company, sponsor of 4 day's Java Workshop in Nov 2019 at VIT Bhopal Campus
@@ -102,7 +103,7 @@ Interpreted Language -
 Special-purpose Language -
 
 5. Golang (Go)
-  - [backendapi](https://github.com/aliasgarsabunwala/backendapi) - Secure Instagram backend API Implementation in Go standard Library to avoid attacks like Weak Randomness. Submitted to Appointy, an online appointment and management company
+  - [Secure Backend API](https://github.com/aliasgarsabunwala/secureapi) - Secure Instagram backend API Implementation in Go standard Library to avoid attacks like Weak Randomness. Submitted to Appointy, an online appointment and management company
 
 6. Assembly (ASM)
   - [ASMCrypt](https://github.com/aliasgarabidsabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryption/ Decryption for 4 letters
