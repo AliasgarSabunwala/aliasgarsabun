@@ -28,7 +28,7 @@ I'm
 
  📖 A R T I C L E ' S
 - Read my Cybersecurity, Digital Forensics, Blockchain and Quantum Cryptography Articles at [Medium](https://aliasgarabidsabunwala.medium.com/) and to get my article's at your mailbox click [here](https://aliasgarsabunwala.medium.com/subscribe)
-- Read my Cybersecurity Articles at upGrad KnowledgeHut Blog [here](https://www.knowledgehut.com/blog/author/ali-asgar)!
+- Read my Cybersecurity Articles at KnowledgeHut upGrad Blog [here](https://www.knowledgehut.com/blog/author/ali-asgar)!
 - and Ethical Hacking vs. Software Engineering - What's the Difference? By Ali Asgar [here](https://knowledgehut.com/blog/security/ethical-hacking-vs-software-engineering)
 
 <br>
@@ -86,7 +86,7 @@ Scholarship -
 
 General-purpose Language -
 1. C++
-  - [librarymanagement](https://github.com/aliasgarabidsabunwala/librarymanagement) - Library Management written in C++ and MySQL
+  - [Library Management](https://github.com/aliasgarabidsabunwala/librarymanagement) - Library Management written in C++ and MySQL
 
 2. C#
   - [Cyber Forum](https://github.com/aliasgarabidsabunwala/cyberforum) - Forum for Social groups for work display, discussions and suggestions written in C#, MySQL Server, VBScript, PHP
@@ -103,7 +103,7 @@ Interpreted Language -
 Special-purpose Language -
 
 5. Golang (Go)
-  - [Secure Backend API](https://github.com/aliasgarsabunwala/secureapi) - Secure Instagram backend API Implementation in Go standard Library to avoid attacks like Weak Randomness. Submitted to Appointy, an online appointment and management company
+  - [Secure Backend API](https://github.com/aliasgarabidsabunwala/secureapi) - Secure Instagram backend API Implementation in Go standard Library to avoid attacks like Weak Randomness. Submitted to Appointy, an online appointment and management company
 
 6. Assembly (ASM)
   - [ASMCrypt](https://github.com/aliasgarabidsabunwala/ASMCrypt) - Tiny Encryption Algorithm (TEA), written in Assembly for 8086 microprocessor (x16) for Encryption/ Decryption for 4 letters
@@ -112,9 +112,9 @@ Special-purpose Language -
 <p align="center"> <b> D A T A B A S E  </b> </p> 
 
 Hands-on experience with -
-- MySQL, used in [LibMag](https://github.com/aliasgarabidsabunwala/librarymanagement)
+- MySQL, used in [Library Management](https://github.com/aliasgarabidsabunwala/librarymanagement)
 - MySQL Server, used in [Identify](https://github.com/aliasgarabidsabunwala/Identify)
-- MongoDB, used in [BackendAPI](BackendAPI) and [Engage](https://github.com/aliasgarabidsabunwala/engage)
+- MongoDB, used in [Secure Backend API](https://github.com/aliasgarabidsabunwala/secureapi) and [Engage](https://github.com/aliasgarabidsabunwala/engage)
 - Firebase, used in [SecurePay](https://github.com/aliasgarabidsabunwala/SecurePay) [Currently private]
 - Oracle SQL
 - PL/SQL 
@@ -140,9 +140,8 @@ Hands-on -
     5. Azure AI Fundamentals (AI-900)
     6. Azure AI Engineer Associate (AI-102)
 
-   Project -
-    - [WebPay](https://github.com/aliasgarabidsabunwala/WebPay) [Currently development in progress]
-    - [Library On Cloud]([https://github.com/aliasgarabidsabunwala/WebPay](https://github.com/aliasgarabidsabunwala/libraryoncloud))
+   Project on work!
+    
 
 2. AWS 
 
