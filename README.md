@@ -163,20 +163,19 @@ Hands-on -
 Certificate -
          1. Github
     
- - IDE's like Visual Studio
- - Text Editor like VS Code or Sublime Text or Atom
+ - IDE and Text Editor like Vi
 
 <br>
 <p align="center"> <b> OPERATING  SYSTEM (OS) </b> </p>  
 
 System administrator expertise on
 - macOS
-- UNIX, Linux including Kali Linux and Parrot Security OS
+- UNIX, including unix-like Kali Linux and Parrot Security OS
 - Windows
 - Chrome OS
 
-Linux Certification 
-- [Projects in Linux - Learn Linux Doing Real World Projects, Eduonix](https://www.eduonix.com/certificate/a7b154d9ad)
+UNIX-like Certification 
+- [Projects in UNIX-like - Learn UNIX-like Doing Real World Projects, Eduonix](https://www.eduonix.com/certificate/a7b154d9ad)
 
 <br>
 <p align="center"> <b> VIRTUALIZATION </b> </p>
